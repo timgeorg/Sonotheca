@@ -208,3 +208,6 @@ __marimo__/
 
 # Project specific
 *.csv
+*.mp3
+*.wav
+*.m4a
