@@ -77,8 +77,23 @@ def analyze_playlist_download_options(
         time.sleep(random.uniform(5, 20))
 
     def random_request_interval():
-        return random.uniform(2, 5)
-    
+        return random.uniform(5, 20)
+
+    tracks_since_long_pause = 0
+    next_long_pause_threshold = random.randint(4, 8)
+
+    def maybe_long_pause():
+        # Occasionally take a longer break to look less like a bot
+        nonlocal tracks_since_long_pause, next_long_pause_threshold
+        tracks_since_long_pause += 1
+        if tracks_since_long_pause >= next_long_pause_threshold:
+            time.sleep(random.uniform(60, 180))
+            tracks_since_long_pause = 0
+            next_long_pause_threshold = random.randint(4, 8)
+
+    def is_retryable_error(error_message: str) -> bool:
+        return "404" in error_message or "401" in error_message
+
     # Step 1: get playlist entries with minimal requests (flat extraction)
     ydl_opts_list = {
         "extract_flat": True,
@@ -173,90 +188,109 @@ def analyze_playlist_download_options(
             })
             return
         
+        def process_entry(entry):
+            """Fetch info and download a single entry. Returns (row_dict, needs_retry)."""
+            if not entry:
+                return None, False
+            track_url = entry.get("url") or entry.get("webpage_url")
+            if not track_url:
+                return None, False
+
+            # Fetch full track info (rate-limited per request)
+            try:
+                info = ydl.extract_info(track_url, download=False)
+            except Exception as e:
+                error_message = str(e)
+                return {
+                    "track_title": entry.get("title", ""),
+                    "track_url": track_url,
+                    "native_download_available": False,
+                    "external_link_available": False,
+                    "external_link": "",
+                    "ytdlp_downloaded": False,
+                    "ytdlp_error": f"info_error: {error_message}",
+                }, is_retryable_error(error_message)
+
+            if not info:
+                return {
+                    "track_title": entry.get("title", ""),
+                    "track_url": track_url,
+                    "native_download_available": False,
+                    "external_link_available": False,
+                    "external_link": "",
+                    "ytdlp_downloaded": False,
+                    "ytdlp_error": "info_error: unavailable (None)",
+                }, False
+
+            title = info.get("title", "")
+            native_available = bool(info.get("download_url"))
+
+            external_link = ""
+            external_available = False
+            try:
+                ext_result = check_soundcloud_external_download(track_url)
+                external_available = bool(ext_result.get("has_external_link"))
+                external_link = ext_result.get("external_link") or ""
+            except Exception:
+                pass
+
+            # If native download is available, prefer it (no yt-dlp download)
+            if native_available:
+                return {
+                    "track_title": title,
+                    "track_url": track_url,
+                    "native_download_available": True,
+                    "external_link_available": external_available,
+                    "external_link": external_link,
+                    "ytdlp_downloaded": False,
+                    "ytdlp_error": "",
+                }, False
+
+            # Otherwise download with yt-dlp (even if external link exists)
+            ytdlp_ok = False
+            ytdlp_err = ""
+            try:
+                with yt_dlp.YoutubeDL(ydl_opts_download) as ydl_dl:
+                    ydl_dl.download([track_url])
+                ytdlp_ok = True
+            except Exception as e:
+                ytdlp_err = str(e)
+
+            return {
+                "track_title": title,
+                "track_url": track_url,
+                "native_download_available": False,
+                "external_link_available": external_available,
+                "external_link": external_link,
+                "ytdlp_downloaded": ytdlp_ok,
+                "ytdlp_error": ytdlp_err,
+            }, is_retryable_error(ytdlp_err)
+
+        def retry_queued_track(entry):
+            """Retry a previously queued 404/401 entry once, tagging the log row."""
+            row, _ = process_entry(entry)
+            if row is not None:
+                row["track_title"] = f"[retry] {row['track_title']}"
+                writer.writerow(row)
+            sleep_between_tracks()
+
         with yt_dlp.YoutubeDL(ydl_opts_info) as ydl:
+            retry_queue = []
             for entry in entries:
                 try:
-                    if not entry:
+                    row, needs_retry = process_entry(entry)
+                    if row is None:
                         continue
-                    track_url = entry.get("url") or entry.get("webpage_url")
-                    if not track_url:
-                        continue
-                    
-                    # Fetch full track info (rate-limited per request)
-                    try:
-                        info = ydl.extract_info(track_url, download=False)
-                    except Exception as e:
-                        writer.writerow({
-                            "track_title": entry.get("title", ""),
-                            "track_url": track_url,
-                            "native_download_available": False,
-                            "external_link_available": False,
-                            "external_link": "",
-                            "ytdlp_downloaded": False,
-                            "ytdlp_error": f"info_error: {e}",
-                        })
-                        sleep_between_tracks()
-                        continue
-                    
-                    if not info:
-                        writer.writerow({
-                            "track_title": entry.get("title", ""),
-                            "track_url": track_url,
-                            "native_download_available": False,
-                            "external_link_available": False,
-                            "external_link": "",
-                            "ytdlp_downloaded": False,
-                            "ytdlp_error": "info_error: unavailable (None)",
-                        })
-                        sleep_between_tracks()
-                        continue
-                    
-                    title = info.get("title", "")
-                    native_available = bool(info.get("download_url"))
-                    
-                    external_link = ""
-                    external_available = False
-                    try:
-                        ext_result = check_soundcloud_external_download(track_url)
-                        external_available = bool(ext_result.get("has_external_link"))
-                        external_link = ext_result.get("external_link") or ""
-                    except Exception:
-                        pass
-                    
-                    # If native download is available, prefer it (no yt-dlp download)
-                    if native_available:
-                        writer.writerow({
-                            "track_title": title,
-                            "track_url": track_url,
-                            "native_download_available": True,
-                            "external_link_available": external_available,
-                            "external_link": external_link,
-                            "ytdlp_downloaded": False,
-                            "ytdlp_error": "",
-                        })
-                        sleep_between_tracks()
-                        continue
-                    
-                    # Otherwise download with yt-dlp (even if external link exists)
-                    ytdlp_ok = False
-                    ytdlp_err = ""
-                    try:
-                        with yt_dlp.YoutubeDL(ydl_opts_download) as ydl_dl:
-                            ydl_dl.download([track_url])
-                        ytdlp_ok = True
-                    except Exception as e:
-                        ytdlp_err = str(e)
-                    
-                    writer.writerow({
-                        "track_title": title,
-                        "track_url": track_url,
-                        "native_download_available": False,
-                        "external_link_available": external_available,
-                        "external_link": external_link,
-                        "ytdlp_downloaded": ytdlp_ok,
-                        "ytdlp_error": ytdlp_err,
-                    })
+                    writer.writerow(row)
+                    if needs_retry:
+                        # Don't retry immediately; download the next track first
+                        retry_queue.append(entry)
                     sleep_between_tracks()
+                    maybe_long_pause()
+
+                    # Retry one queued 404/401 track after moving on to the next track
+                    if retry_queue:
+                        retry_queued_track(retry_queue.pop(0))
                 except Exception as e:
                     writer.writerow({
                         "track_title": entry.get("title", "") if entry else "",
@@ -268,6 +302,10 @@ def analyze_playlist_download_options(
                         "ytdlp_error": f"unexpected_error: {e}",
                     })
                     sleep_between_tracks()
+
+            # Retry any tracks still queued after the last entry was processed
+            for entry in retry_queue:
+                retry_queued_track(entry)
 
 if __name__ == "__main__":
 
