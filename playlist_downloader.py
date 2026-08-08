@@ -75,6 +75,9 @@ def analyze_playlist_download_options(
     
     def sleep_between_tracks():
         time.sleep(random.uniform(5, 20))
+
+    def random_request_interval():
+        return random.uniform(2, 5)
     
     # Step 1: get playlist entries with minimal requests (flat extraction)
     ydl_opts_list = {
@@ -82,7 +85,7 @@ def analyze_playlist_download_options(
         "skip_download": True,
         "username": "oauth",
         "password": token,
-        "sleep_interval_requests": 5,
+        "sleep_interval_requests": random_request_interval(),
         "max_sleep_interval_requests": 20,
         "extractor_retries": 10,
         "retry_sleep": "extractor:exp=1:120",
@@ -95,7 +98,7 @@ def analyze_playlist_download_options(
         "format": "original/best",
         "username": "oauth",
         "password": token,
-        "sleep_interval_requests": 5,
+        "sleep_interval_requests": random_request_interval(),
         "max_sleep_interval_requests": 20,
         "extractor_retries": 10,
         "retry_sleep": "extractor:exp=1:120",
@@ -125,10 +128,10 @@ def analyze_playlist_download_options(
         ],
         "writethumbnail": True,
         "embedthumbnail": True,
-        "sleep_requests": 5,
-        "sleep_interval": 5,
+        "sleep_requests": random_request_interval(),
+        "sleep_interval": random_request_interval(),
         "max_sleep_interval": 20,
-        "sleep_interval_requests": 5,
+        "sleep_interval_requests": random_request_interval(),
         "max_sleep_interval_requests": 20,
         "extractor_retries": 10,
         "retry_sleep": "extractor:exp=1:120",
@@ -273,7 +276,7 @@ if __name__ == "__main__":
     TOKEN = os.getenv('SC_TOKEN')
 
     # Usage
-    PLAYLIST_LINK = "https://soundcloud.com/user-251038582/sets/10yeardancerobix"
+    PLAYLIST_LINK = "https://soundcloud.com/timggg/sets/tims-big-deep-house-chill"
     analyze_playlist_download_options(PLAYLIST_LINK, TOKEN)
 
 
