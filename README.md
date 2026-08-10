@@ -43,6 +43,18 @@ SC_TOKEN=your_soundcloud_oauth_token
 
 The script uses this token via python-dotenv.
 
+### Renewing the token
+
+SoundCloud OAuth tokens expire periodically. When downloads fail with auth errors, renew the token:
+
+1. Open SoundCloud in your browser and log in (must be a Go+ account for premium content)
+2. Open DevTools (F12) → Application → Cookies → `https://soundcloud.com`
+3. Find the `oauth_token` cookie and copy its value
+4. Update `.env` with the new `SC_TOKEN` value
+5. Test with a small playlist before running a full download
+
+> [!warning] The token must come from a logged-in Go+ session, otherwise yt-dlp cannot access premium tracks.
+
 ### Run
 
 Update the playlist URL in the script or call it from another driver module. The current default is:

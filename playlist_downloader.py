@@ -77,7 +77,7 @@ def analyze_playlist_download_options(
         time.sleep(random.uniform(5, 20))
 
     def random_request_interval():
-        return random.uniform(5, 20)
+        return random.uniform(1, 3)
 
     tracks_since_long_pause = 0
     next_long_pause_threshold = random.randint(4, 8)
@@ -314,7 +314,7 @@ if __name__ == "__main__":
     TOKEN = os.getenv('SC_TOKEN')
 
     # Usage
-    PLAYLIST_LINK = "https://soundcloud.com/timggg/sets/tims-big-deep-house-chill"
+    PLAYLIST_LINK = "https://soundcloud.com/timggg/sets/tims-melodic-deep-techno-house"
     analyze_playlist_download_options(PLAYLIST_LINK, TOKEN)
 
 
