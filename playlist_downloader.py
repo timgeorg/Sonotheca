@@ -58,6 +58,7 @@ def analyze_playlist_download_options(
     token: str,
     output_dir: str = "downloads/playlist",
     log_csv: str = "playlist_download_log.csv",
+    max_tracks: int | None = None,
 ) -> None:
     """
     Analyze a SoundCloud playlist, log download options per track, and download via yt-dlp when needed.
@@ -66,6 +67,8 @@ def analyze_playlist_download_options(
     - Prefer native SoundCloud download when available (do NOT download via yt-dlp).
     - If native download is not available, download via yt-dlp (even if external link exists).
     - Always log availability and yt-dlp success/failure.
+
+    max_tracks caps how many entries are processed (for smoke tests); None = all.
     """
     output_path = Path(output_dir)
     output_path.mkdir(parents=True, exist_ok=True)
@@ -150,7 +153,11 @@ def analyze_playlist_download_options(
         "max_sleep_interval_requests": 20,
         "extractor_retries": 10,
         "retry_sleep": "extractor:exp=1:120",
-        "ignoreerrors": True,
+        # NOTE: ignoreerrors=False here on purpose. With True, yt-dlp swallows
+        # DRM/premium blocks and download() returns normally, so the log would
+        # claim ytdlp_downloaded=True for tracks that never landed on disk.
+        # Raising lets the per-track try/except record the real failure.
+        "ignoreerrors": False,
         "no_warnings": False,
     }
     
@@ -176,6 +183,8 @@ def analyze_playlist_download_options(
             with yt_dlp.YoutubeDL(ydl_opts_list) as ydl_list:
                 playlist_info = ydl_list.extract_info(playlist_url, download=False)
                 entries = playlist_info.get("entries", []) if playlist_info else []
+            if max_tracks is not None:
+                entries = entries[:max_tracks]
         except Exception as e:
             writer.writerow({
                 "track_title": "",
@@ -223,35 +232,54 @@ def analyze_playlist_download_options(
                 }, False
 
             title = info.get("title", "")
-            native_available = bool(info.get("download_url"))
+
+            # SoundCloud's own "Original" download shows up as a format with
+            # format_id == 'download' (a WAV, format_note 'Original').
+            # NOTE: the previous check was `info.get("download_url")`, but that
+            # key does NOT exist in current yt-dlp's SoundCloud extractor — it
+            # returned None for every track, so `native_download_available` was
+            # logged False for everything and the skip-branch below never ran.
+            native_available = any(
+                (f or {}).get("format_id") == "download"
+                for f in (info.get("formats") or [])
+            )
+
+            # The external-link check scrapes the PUBLIC track page without OAuth.
+            # Flat playlist extraction sometimes yields api-v2.soundcloud.com/tracks/<id>
+            # URLs, and that endpoint requires OAuth -> plain GET returns 401, which
+            # silently recorded every such track as "no external link". Prefer the
+            # public permalink from the track info when we have it.
+            check_url = info.get("webpage_url") or track_url
+            if "api-v2.soundcloud.com" in check_url:
+                check_url = info.get("webpage_url") or ""
 
             external_link = ""
             external_available = False
-            try:
-                ext_result = check_soundcloud_external_download(track_url)
-                external_available = bool(ext_result.get("has_external_link"))
-                external_link = ext_result.get("external_link") or ""
-            except Exception:
-                pass
+            if check_url.startswith("http"):
+                try:
+                    ext_result = check_soundcloud_external_download(check_url)
+                    external_available = bool(ext_result.get("has_external_link"))
+                    external_link = ext_result.get("external_link") or ""
+                except Exception:
+                    pass
 
-            # If native download is available, prefer it (no yt-dlp download)
-            if native_available:
-                return {
-                    "track_title": title,
-                    "track_url": track_url,
-                    "native_download_available": True,
-                    "external_link_available": external_available,
-                    "external_link": external_link,
-                    "ytdlp_downloaded": False,
-                    "ytdlp_error": "",
-                }, False
+            # NOTE: unlike the original script, we intentionally do NOT skip the
+            # download when SoundCloud offers a native original. The repo's goal
+            # is a complete offline library, and skipping would leave holes while
+            # providing no benefit (the native WAV is what yt-dlp fetches anyway).
+            # `native_download_available` is now logged truthfully instead.
 
-            # Otherwise download with yt-dlp (even if external link exists)
+            # Download with yt-dlp (even if native or external link exists)
             ytdlp_ok = False
             ytdlp_err = ""
             try:
+                # Reuse the already-extracted `info` instead of calling
+                # ydl.download([track_url]), which re-runs the whole extraction
+                # (another ~8 rate-limited API calls per track). The metadata
+                # pass already paid for that work — re-extracting it doubled
+                # both API traffic (429 risk) and runtime.
                 with yt_dlp.YoutubeDL(ydl_opts_download) as ydl_dl:
-                    ydl_dl.download([track_url])
+                    ydl_dl.process_ie_result(dict(info), download=True)
                 ytdlp_ok = True
             except Exception as e:
                 ytdlp_err = str(e)
@@ -259,12 +287,10 @@ def analyze_playlist_download_options(
             return {
                 "track_title": title,
                 "track_url": track_url,
-                "native_download_available": False,
-                "external_link_available": external_available,
-                "external_link": external_link,
-                "ytdlp_downloaded": ytdlp_ok,
+                "native_download_available": native_available,
                 "ytdlp_error": ytdlp_err,
             }, is_retryable_error(ytdlp_err)
+        
 
         def retry_queued_track(entry):
             """Retry a previously queued 404/401 entry once, tagging the log row."""
@@ -314,7 +340,7 @@ if __name__ == "__main__":
     TOKEN = os.getenv('SC_TOKEN')
 
     # Usage
-    PLAYLIST_LINK = "https://soundcloud.com/timggg/sets/tims-melodic-deep-techno-house"
+    PLAYLIST_LINK = "https://soundcloud.com/timggg/sets/tims-classic-techno"
     analyze_playlist_download_options(PLAYLIST_LINK, TOKEN)
 
 
