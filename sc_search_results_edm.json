@@ -1,0 +1,3320 @@
+{
+  "results": [
+    {
+      "spotify_title": "Komtie (Kom Tie Dan He!)",
+      "spotify_artist": "Dimitri Vegas & Like Mike, Bassjackers, The Darkraver, DJ Norman",
+      "spotify_id": "4eKzx7tcRxOLpa4QWmRHse",
+      "sc_match": {
+        "id": 1534945861,
+        "title": "Dimitri Vegas & Like Mike x Bassjackers x The Darkraver x DJ Norman  - Komtie (Kom Tie Dan He!)",
+        "permalink_url": "https://soundcloud.com/smashthehouse/dimitri-vegas-like-mike-x-bassjackers-x-the-darkraver-x-dj-norman-komtie-kom-tie-dan-he",
+        "duration": 142238,
+        "user": "Smash The House",
+        "playback_count": 66450,
+        "match_score": 75.33333333333333
+      },
+      "sc_candidates": [
+        {
+          "id": 1534945861,
+          "title": "Dimitri Vegas & Like Mike x Bassjackers x The Darkraver x DJ Norman  - Komtie (Kom Tie Dan He!)",
+          "permalink_url": "https://soundcloud.com/smashthehouse/dimitri-vegas-like-mike-x-bassjackers-x-the-darkraver-x-dj-norman-komtie-kom-tie-dan-he",
+          "duration": 142238,
+          "user": "Smash The House",
+          "playback_count": 66450,
+          "match_score": 75.33333333333333
+        },
+        {
+          "id": 1823965902,
+          "title": "Dimitri Vegas & Like Mike x Maddix x Da Hool ft. Kiki Solvej - Meet Her At The Love Parade",
+          "permalink_url": "https://soundcloud.com/dimitrivegasandlikemike/dimitri-vegas-like-mike-maddix-da-hool-ft-kiki-solvej-meet-her-at-the-love-parade",
+          "duration": 168846,
+          "user": "dimitrivegasandlikemike",
+          "playback_count": 679221,
+          "match_score": 5.0
+        },
+        {
+          "id": 198464955,
+          "title": "Dimitri Vegas & Like Mike vs Ummet Ozcan - The Hum - BEATPORT #1",
+          "permalink_url": "https://soundcloud.com/dimitrivegasandlikemike/dimitri-vegas-like-mike-vs-ummet-ozcan-the-hum-out-2004-on-beatport",
+          "duration": 211046,
+          "user": "dimitrivegasandlikemike",
+          "playback_count": 17098050,
+          "match_score": 5.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "My Gasoline - Hard Edit",
+      "spotify_artist": "Maddix, Basswell, Fēlēs",
+      "spotify_id": "2pmk8xGNKwmKrmQBK9Vwgf",
+      "sc_match": {
+        "id": 1768303446,
+        "title": "My Gasoline (Hard Edit) [feat. Fēlēs]",
+        "permalink_url": "https://soundcloud.com/basswell-2/my-gasoline-hard-edit-feat-fe",
+        "duration": 243297,
+        "user": "Basswell",
+        "playback_count": 236582,
+        "match_score": 61.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1768303446,
+          "title": "My Gasoline (Hard Edit) [feat. Fēlēs]",
+          "permalink_url": "https://soundcloud.com/basswell-2/my-gasoline-hard-edit-feat-fe",
+          "duration": 243297,
+          "user": "Basswell",
+          "playback_count": 236582,
+          "match_score": 61.0
+        },
+        {
+          "id": 1775574471,
+          "title": "Maddix Feat. Fēlēs - My Gasoline [Maddix _ Basswell Hard Edit]",
+          "permalink_url": "https://soundcloud.com/edm_g9/maddix-feat-f-l-s-my-gasoline",
+          "duration": 165587,
+          "user": "EDM Gallery",
+          "playback_count": 12850,
+          "match_score": 52.0
+        },
+        {
+          "id": 1777741338,
+          "title": "Maddix & Basswell Feat. Fēlēs - My Gasoline (Original vs. Hard Edit) [CRIIYTON Rework]",
+          "permalink_url": "https://soundcloud.com/ajcriiyton/maddix-basswell-feat-feles-my-gasoline-original-vs-hard-edit-ajcriiyton-rework",
+          "duration": 354487,
+          "user": "CRIIYTON",
+          "playback_count": 2782,
+          "match_score": 50.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "My Gasoline",
+      "spotify_artist": "Maddix, Fēlēs",
+      "spotify_id": "6dyfsauAoa5qN0tj9JKamE",
+      "sc_match": {
+        "id": 1581857247,
+        "title": "My Gasoline",
+        "permalink_url": "https://soundcloud.com/maddixmusic/my-gasoline",
+        "duration": 237021,
+        "user": "Maddix",
+        "playback_count": 2190966,
+        "match_score": 82.5
+      },
+      "sc_candidates": [
+        {
+          "id": 1581857247,
+          "title": "My Gasoline",
+          "permalink_url": "https://soundcloud.com/maddixmusic/my-gasoline",
+          "duration": 237021,
+          "user": "Maddix",
+          "playback_count": 2190966,
+          "match_score": 82.5
+        },
+        {
+          "id": 1765453812,
+          "title": "Maddix Feat. Fēlēs - My Gasoline (Extended Mix)",
+          "permalink_url": "https://soundcloud.com/ekushey/maddix-feat-feles-my-gasoline-extended-mix",
+          "duration": 346453,
+          "user": "Russell John 🇧🇩",
+          "playback_count": 20961,
+          "match_score": 72.0
+        },
+        {
+          "id": 1775574471,
+          "title": "Maddix Feat. Fēlēs - My Gasoline [Maddix _ Basswell Hard Edit]",
+          "permalink_url": "https://soundcloud.com/edm_g9/maddix-feat-f-l-s-my-gasoline",
+          "duration": 165587,
+          "user": "EDM Gallery",
+          "playback_count": 12850,
+          "match_score": 72.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Friends - Bassjackers Remix",
+      "spotify_artist": "Dimitri Vegas, Steve Aoki, Chapter & Verse, Bassjackers",
+      "spotify_id": "4s69BXFmdssMXfSllZ2zlf",
+      "sc_match": {
+        "id": 1515925249,
+        "title": "Dimitri Vegas x Steve Aoki x Chapter & Verse - Friends (Bassjackers Remix)",
+        "permalink_url": "https://soundcloud.com/smashthehouse/dimitri-vegas-x-steve-aoki-x-chapter-verse-friends-bassjackers-remix",
+        "duration": 162903,
+        "user": "Smash The House",
+        "playback_count": 135323,
+        "match_score": 55.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1515925249,
+          "title": "Dimitri Vegas x Steve Aoki x Chapter & Verse - Friends (Bassjackers Remix)",
+          "permalink_url": "https://soundcloud.com/smashthehouse/dimitri-vegas-x-steve-aoki-x-chapter-verse-friends-bassjackers-remix",
+          "duration": 162903,
+          "user": "Smash The House",
+          "playback_count": 135323,
+          "match_score": 55.0
+        },
+        {
+          "id": 1472962774,
+          "title": "Dimitri Vegas, Steve Aoki - White Lotus Theme (Aloha) (Bassjackers Remix)",
+          "permalink_url": "https://soundcloud.com/bassjackers/white-lotus-theme-bassjackers-remix",
+          "duration": 227601,
+          "user": "BASSJACKERS",
+          "playback_count": 78693,
+          "match_score": 31.285714285714285
+        },
+        {
+          "id": 1481776387,
+          "title": "Dimitri Vegas x Steve Aoki x Chapter & Verse - Friends",
+          "permalink_url": "https://soundcloud.com/smashthehouse/dimitri-vegas-x-steve-aoki-x-chapter-verse-friends",
+          "duration": 147448,
+          "user": "Smash The House",
+          "playback_count": 75629,
+          "match_score": 27.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "ACID",
+      "spotify_artist": "Hardwell, Maddix, Luciana",
+      "spotify_id": "6JkQb1qCCJDBV7kW5vJUAH",
+      "sc_match": {
+        "id": 1497687475,
+        "title": "ACID (feat. Luciana)",
+        "permalink_url": "https://soundcloud.com/hardwell/acid-feat-luciana",
+        "duration": 181354,
+        "user": "HARDWELL",
+        "playback_count": 583941,
+        "match_score": 85.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1497687475,
+          "title": "ACID (feat. Luciana)",
+          "permalink_url": "https://soundcloud.com/hardwell/acid-feat-luciana",
+          "duration": 181354,
+          "user": "HARDWELL",
+          "playback_count": 583941,
+          "match_score": 85.0
+        },
+        {
+          "id": 1477871026,
+          "title": "Hardwell & Maddix ft. Luciana - ACID [LIVE]",
+          "permalink_url": "https://soundcloud.com/hardwellultraeurope2022/hardwell-maddix-ft-maikki-acid",
+          "duration": 187129,
+          "user": "Hardwell ID",
+          "playback_count": 44383,
+          "match_score": 82.0
+        },
+        {
+          "id": 1541292397,
+          "title": "Hardwell & Maddix feat. Luciana - ACID - (Dórian Acid Circuit)",
+          "permalink_url": "https://soundcloud.com/djdorianncl/hardwell-maddix-feat-luciana-acid-dorian-acid-tribal",
+          "duration": 168645,
+          "user": "Dórian",
+          "playback_count": 1098,
+          "match_score": 70.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Blow Your Mind",
+      "spotify_artist": "Will Sparks",
+      "spotify_id": "5umKk7Mj417c5MBu3aGqRj",
+      "sc_match": {
+        "id": 1512596893,
+        "title": "Blow Your Mind",
+        "permalink_url": "https://soundcloud.com/willsparks/blow-your-mind",
+        "duration": 285248,
+        "user": "Will Sparks",
+        "playback_count": 231289,
+        "match_score": 105.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1512596893,
+          "title": "Blow Your Mind",
+          "permalink_url": "https://soundcloud.com/willsparks/blow-your-mind",
+          "duration": 285248,
+          "user": "Will Sparks",
+          "playback_count": 231289,
+          "match_score": 105.0
+        },
+        {
+          "id": 1533812869,
+          "title": "Will Sparks - Blow Your Mind",
+          "permalink_url": "https://soundcloud.com/clubwrk/will-sparks-blow-your-mind",
+          "duration": 285273,
+          "user": "CLUBWRK",
+          "playback_count": 35609,
+          "match_score": 72.0
+        },
+        {
+          "id": 1551941158,
+          "title": "Will Sparks - Blow Your Mind (Sly Delvecchio 160 Edit) *FREE DL CLICK MORE*",
+          "permalink_url": "https://soundcloud.com/dreamheartdj/will-sparks-blow-your-mind-sly-delvecchio-160-edit",
+          "duration": 294080,
+          "user": "Julien Dreamheart",
+          "playback_count": 20459,
+          "match_score": 72.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "90s Bitch",
+      "spotify_artist": "Maddix, The Rocketman",
+      "spotify_id": "2GcncPaqXotQIPokzRM5pP",
+      "sc_match": {
+        "id": 1666757508,
+        "title": "90s Bitch",
+        "permalink_url": "https://soundcloud.com/maddixmusic/90s-bitch",
+        "duration": 196304,
+        "user": "Maddix",
+        "playback_count": 2394176,
+        "match_score": 85.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1666757508,
+          "title": "90s Bitch",
+          "permalink_url": "https://soundcloud.com/maddixmusic/90s-bitch",
+          "duration": 196304,
+          "user": "Maddix",
+          "playback_count": 2394176,
+          "match_score": 85.0
+        },
+        {
+          "id": 1687143381,
+          "title": "Maddix & The Rocketman - 90s Bitch (Calvin Hernandez 90s Baby Edit)",
+          "permalink_url": "https://soundcloud.com/calvinhernandezmusic/maddix-the-rocketman-90s-1",
+          "duration": 196341,
+          "user": "Calvin Hernandez",
+          "playback_count": 638055,
+          "match_score": 75.0
+        },
+        {
+          "id": 1700335062,
+          "title": "Maddix, The Rocketman - 90s Bitch (Extended Mix)",
+          "permalink_url": "https://soundcloud.com/rav3r-yt/maddix-the-rocketman-90s-bitch-extended-mix",
+          "duration": 292005,
+          "user": "𝗥𝗮𝘃𝟯",
+          "playback_count": 129879,
+          "match_score": 75.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Donkers - Original Mix",
+      "spotify_artist": "Gonzi, Creeds",
+      "spotify_id": "4jSP5Ep7hs2dS62ljfB5dy",
+      "sc_match": {
+        "id": 1739508825,
+        "title": "Donkers (Original Mix)",
+        "permalink_url": "https://soundcloud.com/creeds/donkers-original-mix",
+        "duration": 304521,
+        "user": "Creeds",
+        "playback_count": 28213,
+        "match_score": 67.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1739508825,
+          "title": "Donkers (Original Mix)",
+          "permalink_url": "https://soundcloud.com/creeds/donkers-original-mix",
+          "duration": 304521,
+          "user": "Creeds",
+          "playback_count": 28213,
+          "match_score": 67.0
+        },
+        {
+          "id": 2179278467,
+          "title": "RIPPIN @ FYF 2025 (Hard Bounce Closing Set)",
+          "permalink_url": "https://soundcloud.com/rippin/rippin-fyf-2025-closing-set",
+          "duration": 6736809,
+          "user": "RIPPIN",
+          "playback_count": 258,
+          "match_score": 0.0
+        },
+        {
+          "id": 1953861703,
+          "title": "RIPPIN @ BASS IN THE PARK (Toxik Parties Stage)",
+          "permalink_url": "https://soundcloud.com/rippin/rippin-bass-in-the-park",
+          "duration": 5303888,
+          "user": "RIPPIN",
+          "playback_count": 340,
+          "match_score": 0.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Tell Me Why - Maddix Remix",
+      "spotify_artist": "Supermode, Maddix",
+      "spotify_id": "5D8Z0KkFce9ir2yak7uj5C",
+      "sc_match": {
+        "id": 1444248100,
+        "title": "Tell Me Why (Maddix Remix)",
+        "permalink_url": "https://soundcloud.com/supermode-official/tell-me-why-maddix-remix",
+        "duration": 191221,
+        "user": "Supermode",
+        "playback_count": 584709,
+        "match_score": 70.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1444248100,
+          "title": "Tell Me Why (Maddix Remix)",
+          "permalink_url": "https://soundcloud.com/supermode-official/tell-me-why-maddix-remix",
+          "duration": 191221,
+          "user": "Supermode",
+          "playback_count": 584709,
+          "match_score": 70.0
+        },
+        {
+          "id": 1444248094,
+          "title": "Tell Me Why (Maddix Extended Remix)",
+          "permalink_url": "https://soundcloud.com/supermode-official/tell-me-why-maddix-extended",
+          "duration": 234421,
+          "user": "Supermode",
+          "playback_count": 242956,
+          "match_score": 70.0
+        },
+        {
+          "id": 1409648500,
+          "title": "Tell Me Why (Maddix Remix)",
+          "permalink_url": "https://soundcloud.com/maddixmusic/tell-me-why-maddix-techno-remix",
+          "duration": 191246,
+          "user": "Maddix",
+          "playback_count": 2245658,
+          "match_score": 70.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Open Sesame (Abracadabra) [feat. Leila K]",
+      "spotify_artist": "Maddix, Leila K",
+      "spotify_id": "4ygydEkcYBt05oS9sHxZ8h",
+      "sc_match": {
+        "id": 1515486619,
+        "title": "Open Sesame (Abracadabra) [feat. Leila K]",
+        "permalink_url": "https://soundcloud.com/maddixmusic/open-sesame",
+        "duration": 219892,
+        "user": "Maddix",
+        "playback_count": 962640,
+        "match_score": 85.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1515486619,
+          "title": "Open Sesame (Abracadabra) [feat. Leila K]",
+          "permalink_url": "https://soundcloud.com/maddixmusic/open-sesame",
+          "duration": 219892,
+          "user": "Maddix",
+          "playback_count": 962640,
+          "match_score": 85.0
+        },
+        {
+          "id": 2175493731,
+          "title": "Open Sesame (Abracadabra) [feat. Leila K] (Extended Mix)",
+          "permalink_url": "https://soundcloud.com/maddixmusic/open-sesame-abracadabra-feat-1",
+          "duration": 345336,
+          "user": "Maddix",
+          "playback_count": 1836,
+          "match_score": 80.0
+        },
+        {
+          "id": 1807878537,
+          "title": "Open Sesame (Abracadabra) (D-Block & S-te-Fan Remix) [feat. Leila K]",
+          "permalink_url": "https://soundcloud.com/maddixmusic/open-sesame-abracadabra-feat",
+          "duration": 182731,
+          "user": "Maddix",
+          "playback_count": 153605,
+          "match_score": 65.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Move It",
+      "spotify_artist": "POLTERGST",
+      "spotify_id": "7F7G8FuCtggmPvs51E9fmN",
+      "sc_match": {
+        "id": 1593265530,
+        "title": "Move It",
+        "permalink_url": "https://soundcloud.com/poltergst/move-it",
+        "duration": 185458,
+        "user": "POLTERGST",
+        "playback_count": 836793,
+        "match_score": 105.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1593265530,
+          "title": "Move It",
+          "permalink_url": "https://soundcloud.com/poltergst/move-it",
+          "duration": 185458,
+          "user": "POLTERGST",
+          "playback_count": 836793,
+          "match_score": 105.0
+        },
+        {
+          "id": 1821191793,
+          "title": "Move It (Extended Mix)",
+          "permalink_url": "https://soundcloud.com/poltergst/move-it-extended-mix",
+          "duration": 220521,
+          "user": "POLTERGST",
+          "playback_count": 6346,
+          "match_score": 100.0
+        },
+        {
+          "id": 1402416964,
+          "title": "Wodda - I Like To Move It",
+          "permalink_url": "https://soundcloud.com/charlieolivier/wodda-i-like-to-move-it",
+          "duration": 284572,
+          "user": "Eezo",
+          "playback_count": 1166570,
+          "match_score": 75.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Like A G6 (with Naeleck)",
+      "spotify_artist": "Timmy Trumpet, POLTERGST, Naeleck",
+      "spotify_id": "46Tjel8UJ2nR0uFgXkT9Y7",
+      "sc_match": {
+        "id": 1801766541,
+        "title": "Like A G6 (with Naeleck)",
+        "permalink_url": "https://soundcloud.com/timmytrumpet/like-a-g6-with-naeleck",
+        "duration": 148773,
+        "user": "Timmy Trumpet",
+        "playback_count": 579402,
+        "match_score": 90.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1801766541,
+          "title": "Like A G6 (with Naeleck)",
+          "permalink_url": "https://soundcloud.com/timmytrumpet/like-a-g6-with-naeleck",
+          "duration": 148773,
+          "user": "Timmy Trumpet",
+          "playback_count": 579402,
+          "match_score": 90.0
+        },
+        {
+          "id": 2139241611,
+          "title": "Like A G6 (with Naeleck) [Extended Mix]",
+          "permalink_url": "https://soundcloud.com/timmytrumpet/like-a-g6-with-naeleck-1",
+          "duration": 218729,
+          "user": "Timmy Trumpet",
+          "playback_count": 1109,
+          "match_score": 85.0
+        },
+        {
+          "id": 1884411804,
+          "title": "NSYNC x Timmy Trumpet, Naeleck, POLTERGST - Bye Bye Bye x Like a G6 (EAZYEAZY EDIT)",
+          "permalink_url": "https://soundcloud.com/eazyeazydj/nsync-bye-bye-bye-eazyeazyedit",
+          "duration": 601646,
+          "user": "EZ",
+          "playback_count": 14439,
+          "match_score": 42.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Maneater",
+      "spotify_artist": "JKRS, ECHO",
+      "spotify_id": "2apRbQlpckuUM282gW1Z6p",
+      "sc_match": {
+        "id": 1448992534,
+        "title": "JKRS & ECHO - Maneater",
+        "permalink_url": "https://soundcloud.com/jkrs_music/jkrs-echo-maneater",
+        "duration": 154332,
+        "user": "JKRS",
+        "playback_count": 540353,
+        "match_score": 90.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1448992534,
+          "title": "JKRS & ECHO - Maneater",
+          "permalink_url": "https://soundcloud.com/jkrs_music/jkrs-echo-maneater",
+          "duration": 154332,
+          "user": "JKRS",
+          "playback_count": 540353,
+          "match_score": 90.0
+        },
+        {
+          "id": 1437762841,
+          "title": "Maneater",
+          "permalink_url": "https://soundcloud.com/jkrs_music/maneater",
+          "duration": 154307,
+          "user": "JKRS",
+          "playback_count": 795225,
+          "match_score": 90.0
+        },
+        {
+          "id": 1449014827,
+          "title": "JKRS & ECHO - Maneater (Sped Up)",
+          "permalink_url": "https://soundcloud.com/garderecords/jkrs-echo-maneater-sped-up",
+          "duration": 139229,
+          "user": "Garde",
+          "playback_count": 10956542,
+          "match_score": 75.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Sexy Chick",
+      "spotify_artist": "SP3CTRUM, MOHA",
+      "spotify_id": "49i1exiswOfRldfwqd6pzE",
+      "sc_match": {
+        "id": 1609339146,
+        "title": "SP3CTRUM & MOHA - Sexy Chick",
+        "permalink_url": "https://soundcloud.com/sp3ctrumofficial/sexychick",
+        "duration": 167689,
+        "user": "SP3CTRUM",
+        "playback_count": 1263995,
+        "match_score": 90.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1609339146,
+          "title": "SP3CTRUM & MOHA - Sexy Chick",
+          "permalink_url": "https://soundcloud.com/sp3ctrumofficial/sexychick",
+          "duration": 167689,
+          "user": "SP3CTRUM",
+          "playback_count": 1263995,
+          "match_score": 90.0
+        },
+        {
+          "id": 1632243699,
+          "title": "SP3CTRUM & MOHA - Sexy Chick",
+          "permalink_url": "https://soundcloud.com/bounceandbass/sexychick",
+          "duration": 167689,
+          "user": "Bounce & Bass",
+          "playback_count": 90791,
+          "match_score": 72.0
+        },
+        {
+          "id": 2006046307,
+          "title": "Sexy Atzenbarbies Sweat [TECHNO] - Shirin David, Ski Aggu vs DJSM vs SP3CTRUM, MOHA [FREE DL]",
+          "permalink_url": "https://soundcloud.com/therealbl1tz/sexy-atzenbarbies-sweat",
+          "duration": 251627,
+          "user": "BL1TZ",
+          "playback_count": 1229,
+          "match_score": 25.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Destination Infinity (feat. Datura)",
+      "spotify_artist": "Gabry Ponte, Datura",
+      "spotify_id": "6Y9HjkMSYwxZWVKd12QeTi",
+      "sc_match": {
+        "id": 1634036487,
+        "title": "Destination Infinity (feat. Datura)",
+        "permalink_url": "https://soundcloud.com/gabryponte/destination-infinity-feat",
+        "duration": 142472,
+        "user": "Gabry Ponte",
+        "playback_count": 235862,
+        "match_score": 95.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1634036487,
+          "title": "Destination Infinity (feat. Datura)",
+          "permalink_url": "https://soundcloud.com/gabryponte/destination-infinity-feat",
+          "duration": 142472,
+          "user": "Gabry Ponte",
+          "playback_count": 235862,
+          "match_score": 95.0
+        },
+        {
+          "id": 2103950493,
+          "title": "Destination Infinity (feat. Datura) [Extended Mix]",
+          "permalink_url": "https://soundcloud.com/gabryponte/destination-infinity-feat-1",
+          "duration": 212175,
+          "user": "Gabry Ponte",
+          "playback_count": 1348,
+          "match_score": 90.0
+        },
+        {
+          "id": 1691195394,
+          "title": "Gabry Ponte & Datura - Destination Infinity (Rave Heaven Bootleg) [EXTENDED]",
+          "permalink_url": "https://soundcloud.com/r-ve-he-ven/gabry-ponte-datura-destination-infinity-rave-heaven-bootleg-extended",
+          "duration": 183870,
+          "user": "RAVE HEAVEN",
+          "playback_count": 15268,
+          "match_score": 39.5
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "The Way I Are - Techno Remix",
+      "spotify_artist": "Consilium, RobxDan",
+      "spotify_id": "2HaHE0atvHTRKvIzrAnUCD",
+      "sc_match": {
+        "id": 2308238987,
+        "title": "The Way I Are (Techno Remix)",
+        "permalink_url": "https://soundcloud.com/robxdan-scmusic/the-way-i-are-techno-remix",
+        "duration": 146046,
+        "user": "RobxDan",
+        "playback_count": 2358,
+        "match_score": 65.0
+      },
+      "sc_candidates": [
+        {
+          "id": 2308238987,
+          "title": "The Way I Are (Techno Remix)",
+          "permalink_url": "https://soundcloud.com/robxdan-scmusic/the-way-i-are-techno-remix",
+          "duration": 146046,
+          "user": "RobxDan",
+          "playback_count": 2358,
+          "match_score": 65.0
+        },
+        {
+          "id": 1701835476,
+          "title": "Best of 2023 Techno (oa Charlotte de Witte,BENNETT)",
+          "permalink_url": "https://soundcloud.com/dj-michel-s/techno-2024",
+          "duration": 3570325,
+          "user": "DJ MICHEL S(NL)",
+          "playback_count": 452,
+          "match_score": 10.0
+        },
+        {
+          "id": 2162062098,
+          "title": "POWER TRANCE & TECHNO (RAVE) - EPISODE NR.157",
+          "permalink_url": "https://soundcloud.com/maickdj/bassline157",
+          "duration": 2142411,
+          "user": "MAICK",
+          "playback_count": 619,
+          "match_score": 10.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Space Train",
+      "spotify_artist": "Kevin D'Angello, Kevin D",
+      "spotify_id": "4eVXJrgK3AXU0IgujAgEjB",
+      "sc_match": {
+        "id": 1519841893,
+        "title": "Space Train",
+        "permalink_url": "https://soundcloud.com/kevindangello/space-train",
+        "duration": 146102,
+        "user": "KEVIN D'ANGELLO",
+        "playback_count": 1880774,
+        "match_score": 105.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1519841893,
+          "title": "Space Train",
+          "permalink_url": "https://soundcloud.com/kevindangello/space-train",
+          "duration": 146102,
+          "user": "KEVIN D'ANGELLO",
+          "playback_count": 1880774,
+          "match_score": 105.0
+        },
+        {
+          "id": 1602818550,
+          "title": "Space Train (Paris)",
+          "permalink_url": "https://soundcloud.com/kevindangello/space-train-paris",
+          "duration": 145854,
+          "user": "KEVIN D'ANGELLO",
+          "playback_count": 25285,
+          "match_score": 102.0
+        },
+        {
+          "id": 1602831657,
+          "title": "Space Train (Berlin)",
+          "permalink_url": "https://soundcloud.com/kevindangello/space-train-berlin",
+          "duration": 143111,
+          "user": "KEVIN D'ANGELLO",
+          "playback_count": 34414,
+          "match_score": 102.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Prada (feat. D-Block Europe) - Valexus Remix",
+      "spotify_artist": "cassö, RAYE, Valexus, D-Block Europe",
+      "spotify_id": "1hmI7H4W0ChPH6vfa9i2CQ",
+      "sc_match": {
+        "id": 1748073288,
+        "title": "Prada (Valexus Extended Remix) [feat. RAYE & D-Block Europe]",
+        "permalink_url": "https://soundcloud.com/casso-wav/prada-valexus-extended-remix",
+        "duration": 181445,
+        "user": "cassö",
+        "playback_count": 44758,
+        "match_score": 57.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1748073288,
+          "title": "Prada (Valexus Extended Remix) [feat. RAYE & D-Block Europe]",
+          "permalink_url": "https://soundcloud.com/casso-wav/prada-valexus-extended-remix",
+          "duration": 181445,
+          "user": "cassö",
+          "playback_count": 44758,
+          "match_score": 57.0
+        },
+        {
+          "id": 1564224652,
+          "title": "Cassö x Raye x D-Block Europe x Valexus - Prada (Valexus Remix)",
+          "permalink_url": "https://soundcloud.com/user-467741183/prada-casso-edit-valexus-remix",
+          "duration": 143171,
+          "user": "Valexus",
+          "playback_count": 11359204,
+          "match_score": 51.66666666666667
+        },
+        {
+          "id": 1617379098,
+          "title": "Prada (Ronnie Pacitti Remix) [feat. D-Block Europe]",
+          "permalink_url": "https://soundcloud.com/casso-wav/prada-ronnie-pacitti-remix",
+          "duration": 185238,
+          "user": "cassö",
+          "playback_count": 353854,
+          "match_score": 51.66666666666667
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Highs In My Dreams",
+      "spotify_artist": "Tiscore, Luna Isa",
+      "spotify_id": "7s1Irdnwze2QGBDJ1WITyb",
+      "sc_match": {
+        "id": 2075540896,
+        "title": "Highs In My Dreams (Techno Mix)",
+        "permalink_url": "https://soundcloud.com/tiscore/highs-in-my-dreams-techno-mix",
+        "duration": 120546,
+        "user": "Tiscore",
+        "playback_count": 11684,
+        "match_score": 82.0
+      },
+      "sc_candidates": [
+        {
+          "id": 2075540896,
+          "title": "Highs In My Dreams (Techno Mix)",
+          "permalink_url": "https://soundcloud.com/tiscore/highs-in-my-dreams-techno-mix",
+          "duration": 120546,
+          "user": "Tiscore",
+          "playback_count": 11684,
+          "match_score": 82.0
+        },
+        {
+          "id": 2371066985,
+          "title": "Highs In My Dreams",
+          "permalink_url": "https://soundcloud.com/tiscore/highs-in-my-dreams-1",
+          "duration": 135686,
+          "user": "Tiscore",
+          "playback_count": 5937,
+          "match_score": 80.0
+        },
+        {
+          "id": 1872984828,
+          "title": "Tiscore x Luna Isa - Highs In My Dreams (BMzk Hardstyle Remix)",
+          "permalink_url": "https://soundcloud.com/bmzk-music/tiscore-x-luna-isa-highs-in-my-dreams-bmzk-hardstyle-remix",
+          "duration": 223308,
+          "user": "BMzk",
+          "playback_count": 266354,
+          "match_score": 75.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "SCREECHMASTER",
+      "spotify_artist": "Basswell",
+      "spotify_id": "4TR9vsC9TbZyDZwmCj5DvK",
+      "sc_match": {
+        "id": 1309995232,
+        "title": "Basswell - SCREECHMASTER",
+        "permalink_url": "https://soundcloud.com/basswell-2/basswell-screechmaster",
+        "duration": 270257,
+        "user": "Basswell",
+        "playback_count": 604846,
+        "match_score": 105.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1309995232,
+          "title": "Basswell - SCREECHMASTER",
+          "permalink_url": "https://soundcloud.com/basswell-2/basswell-screechmaster",
+          "duration": 270257,
+          "user": "Basswell",
+          "playback_count": 604846,
+          "match_score": 105.0
+        },
+        {
+          "id": 1419736909,
+          "title": "MADILIM MIXTAPE vol26",
+          "permalink_url": "https://soundcloud.com/shortroundd/madilim-mixtape-vol26",
+          "duration": 3846341,
+          "user": "ShortRound",
+          "playback_count": 160032,
+          "match_score": 5.0
+        },
+        {
+          "id": 1522646002,
+          "title": "Rhymes techno MIX",
+          "permalink_url": "https://soundcloud.com/winson-ngoh-898890289/rhymes-techno-mix",
+          "duration": 156012,
+          "user": "WINSON",
+          "playback_count": 29918,
+          "match_score": 2.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Cinema",
+      "spotify_artist": "JKRS",
+      "spotify_id": "6ZCAoPaurm8pUPDj6bODf2",
+      "sc_match": {
+        "id": 1548036733,
+        "title": "Benny Benassi - Cinema (JKRS Techno Remix)",
+        "permalink_url": "https://soundcloud.com/jkrs_music/benny-benassi-cinema-jkrs-techno-remix",
+        "duration": 113485,
+        "user": "JKRS",
+        "playback_count": 500716,
+        "match_score": 105.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1548036733,
+          "title": "Benny Benassi - Cinema (JKRS Techno Remix)",
+          "permalink_url": "https://soundcloud.com/jkrs_music/benny-benassi-cinema-jkrs-techno-remix",
+          "duration": 113485,
+          "user": "JKRS",
+          "playback_count": 500716,
+          "match_score": 105.0
+        },
+        {
+          "id": 1570521262,
+          "title": "Cinema",
+          "permalink_url": "https://soundcloud.com/jkrs_music/cinema",
+          "duration": 114231,
+          "user": "JKRS",
+          "playback_count": 377829,
+          "match_score": 105.0
+        },
+        {
+          "id": 1570518883,
+          "title": "Cinema (Sped Up)",
+          "permalink_url": "https://soundcloud.com/jkrs_music/cinema-sped-up",
+          "duration": 98333,
+          "user": "JKRS",
+          "playback_count": 51491,
+          "match_score": 102.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Oui mais Non - Nicolas Julian Remix",
+      "spotify_artist": "SM:LY, Nicolas J",
+      "spotify_id": "36ZvYgWivlGx3G11YXReLL",
+      "sc_match": {
+        "id": 1625871099,
+        "title": "Oui mais Non (Nicolas Julian Remix)",
+        "permalink_url": "https://soundcloud.com/smly-music/oui-mais-non-remix",
+        "duration": 162384,
+        "user": "SM:LY",
+        "playback_count": 159417,
+        "match_score": 70.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1625871099,
+          "title": "Oui mais Non (Nicolas Julian Remix)",
+          "permalink_url": "https://soundcloud.com/smly-music/oui-mais-non-remix",
+          "duration": 162384,
+          "user": "SM:LY",
+          "playback_count": 159417,
+          "match_score": 70.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Dernière danse - Techno Mix",
+      "spotify_artist": "Indila, BENNETT",
+      "spotify_id": "5fIZ683j2xPeLAXfHeWKEG",
+      "sc_match": {
+        "id": 1725307524,
+        "title": "Dernière danse (Techno Mix)",
+        "permalink_url": "https://soundcloud.com/indila-official/derniere-danse-techno-mix",
+        "duration": 197164,
+        "user": "Indila",
+        "playback_count": 972181,
+        "match_score": 70.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1725307524,
+          "title": "Dernière danse (Techno Mix)",
+          "permalink_url": "https://soundcloud.com/indila-official/derniere-danse-techno-mix",
+          "duration": 197164,
+          "user": "Indila",
+          "playback_count": 972181,
+          "match_score": 70.0
+        },
+        {
+          "id": 2119317738,
+          "title": "Indila x Jalejanje- Dernière Danse (Techno Mix)",
+          "permalink_url": "https://soundcloud.com/jalejanje/indila-x-jalejanje-derniere-danse-techno-mix",
+          "duration": 127278,
+          "user": "Jalejanje",
+          "playback_count": 423,
+          "match_score": 50.0
+        },
+        {
+          "id": 2188950531,
+          "title": "Evil Techno Church",
+          "permalink_url": "https://soundcloud.com/tona-silva/evil-techno-church",
+          "duration": 3458690,
+          "user": "Tona",
+          "playback_count": 106,
+          "match_score": 12.5
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "LET'S GET FKD UP",
+      "spotify_artist": "Alok, Mondello'G, CERES, Tribbs",
+      "spotify_id": "0iB5f04XdJ2tcfhoVkeLV8",
+      "sc_match": {
+        "id": 1658979333,
+        "title": "Alok x Mondello'G x CERES x Tribbs - LET’S GET FKD UP",
+        "permalink_url": "https://soundcloud.com/livealok/lets-get-fkd-up-1",
+        "duration": 60089,
+        "user": "Alok",
+        "playback_count": 404735,
+        "match_score": 61.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1658979333,
+          "title": "Alok x Mondello'G x CERES x Tribbs - LET’S GET FKD UP",
+          "permalink_url": "https://soundcloud.com/livealok/lets-get-fkd-up-1",
+          "duration": 60089,
+          "user": "Alok",
+          "playback_count": 404735,
+          "match_score": 61.0
+        },
+        {
+          "id": 1658982726,
+          "title": "Alok x Mondello'G x CERES x Tribbs - LET’S GET FKD UP",
+          "permalink_url": "https://soundcloud.com/cereshumana/lets-get-fkd-up-teaser",
+          "duration": 121546,
+          "user": "CERES",
+          "playback_count": 3013397,
+          "match_score": 61.0
+        },
+        {
+          "id": 1668005106,
+          "title": "Alok x Mondello'G x CERES x Tribbs - LET’S GET FKD UP",
+          "permalink_url": "https://soundcloud.com/tribbs-music/alok-x-mondellog-x-ceres-x-tribbs-lets-get-fkd-up",
+          "duration": 121546,
+          "user": "Tribbs",
+          "playback_count": 84023,
+          "match_score": 58.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "We Are The People - southstar Remix",
+      "spotify_artist": "Empire Of The Sun, southstar",
+      "spotify_id": "4atLPkcljMp14JBaigYFKC",
+      "sc_match": {
+        "id": 255870266,
+        "title": "We Are The People",
+        "permalink_url": "https://soundcloud.com/empireofthesunsound/we-are-the-people",
+        "duration": 267400,
+        "user": "Empire Of The Sun",
+        "playback_count": 5250552,
+        "match_score": 89.0
+      },
+      "sc_candidates": [
+        {
+          "id": 255870266,
+          "title": "We Are The People",
+          "permalink_url": "https://soundcloud.com/empireofthesunsound/we-are-the-people",
+          "duration": 267400,
+          "user": "Empire Of The Sun",
+          "playback_count": 5250552,
+          "match_score": 89.0
+        },
+        {
+          "id": 1969602611,
+          "title": "We Are The People (ARTBAT Remix)",
+          "permalink_url": "https://soundcloud.com/empireofthesunsound/we-are-the-people-artbat-remix",
+          "duration": 238126,
+          "user": "Empire Of The Sun",
+          "playback_count": 102249,
+          "match_score": 69.0
+        },
+        {
+          "id": 1429553011,
+          "title": "Empire Of The Sun - We Are The People (Southstar Remix) (SPED UP)",
+          "permalink_url": "https://soundcloud.com/shyx1/yt1scom-empire-of-the-sun-we-are-the-people-southstar-remix-made-by-skyx1312-sped-up",
+          "duration": 201990,
+          "user": "Mr Shyx",
+          "playback_count": 116674,
+          "match_score": 55.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Smells Like Teen Spirit",
+      "spotify_artist": "Naeleck, Coopex, Duncán, Nito-Onna",
+      "spotify_id": "1h54366McXSNcici2LAiZP",
+      "sc_match": {
+        "id": 1691095695,
+        "title": "Smells Like Teen Spirit (feat. Nito-Onna)",
+        "permalink_url": "https://soundcloud.com/coopexofficial/smells-like-teen-spirit-feat",
+        "duration": 160781,
+        "user": "Coopex",
+        "playback_count": 132297,
+        "match_score": 80.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1691095695,
+          "title": "Smells Like Teen Spirit (feat. Nito-Onna)",
+          "permalink_url": "https://soundcloud.com/coopexofficial/smells-like-teen-spirit-feat",
+          "duration": 160781,
+          "user": "Coopex",
+          "playback_count": 132297,
+          "match_score": 80.0
+        },
+        {
+          "id": 1709060622,
+          "title": "Naeleck, Coopex & Duncan - Smells Like Teen Spirit (ft. Nito-Onna)",
+          "permalink_url": "https://soundcloud.com/naeleck/smells-like-teen-spirit",
+          "duration": 187287,
+          "user": "Naeleck",
+          "playback_count": 39892,
+          "match_score": 77.0
+        },
+        {
+          "id": 1033925053,
+          "title": "Coopex, Nito-Onna, CPX - Smells Like Teen Spirit",
+          "permalink_url": "https://soundcloud.com/loudkult/coopex-nito-onna-cpx-smells-like-teen-spirit",
+          "duration": 186051,
+          "user": "LoudKult",
+          "playback_count": 864289,
+          "match_score": 75.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "CHASE THE SUN",
+      "spotify_artist": "TurboKevin",
+      "spotify_id": "3XqbE73rPFS6Ys6RBx1qGh",
+      "sc_match": {
+        "id": 1339463479,
+        "title": "TurboKevin - CHASE THE SUN",
+        "permalink_url": "https://soundcloud.com/turbokevin/turbokevin-chase-the-sun",
+        "duration": 232667,
+        "user": "TurboKevin",
+        "playback_count": 15798820,
+        "match_score": 105.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1339463479,
+          "title": "TurboKevin - CHASE THE SUN",
+          "permalink_url": "https://soundcloud.com/turbokevin/turbokevin-chase-the-sun",
+          "duration": 232667,
+          "user": "TurboKevin",
+          "playback_count": 15798820,
+          "match_score": 105.0
+        },
+        {
+          "id": 1449096892,
+          "title": "CHASE THE SUN",
+          "permalink_url": "https://soundcloud.com/turbokevin/chase-the-sun",
+          "duration": 211309,
+          "user": "TurboKevin",
+          "playback_count": 124635,
+          "match_score": 105.0
+        },
+        {
+          "id": 1355437261,
+          "title": "CHASE THE SUN - TurboKevin Speedup",
+          "permalink_url": "https://soundcloud.com/benjaminnyby/chase-the-sun-turbokevin-speedup",
+          "duration": 199083,
+          "user": "Nyby",
+          "playback_count": 141160,
+          "match_score": 75.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Get Shaky (Macon's Remix)",
+      "spotify_artist": "The Ian Carey Project, Macon",
+      "spotify_id": "42O31gY8N28p4DAk7YYkeM",
+      "sc_match": {
+        "id": 1479032557,
+        "title": "Get Shaky (Macon's Remix)",
+        "permalink_url": "https://soundcloud.com/the-ian-carey-project/get-shaky-macons-hypertechno",
+        "duration": 150225,
+        "user": "The Ian Carey Project",
+        "playback_count": 126784,
+        "match_score": 99.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1479032557,
+          "title": "Get Shaky (Macon's Remix)",
+          "permalink_url": "https://soundcloud.com/the-ian-carey-project/get-shaky-macons-hypertechno",
+          "duration": 150225,
+          "user": "The Ian Carey Project",
+          "playback_count": 126784,
+          "match_score": 99.0
+        },
+        {
+          "id": 1644755787,
+          "title": "Get Shaky",
+          "permalink_url": "https://soundcloud.com/the-ian-carey-project/get-shaky-1",
+          "duration": 163146,
+          "user": "The Ian Carey Project",
+          "playback_count": 18240,
+          "match_score": 71.0
+        },
+        {
+          "id": 1444086316,
+          "title": "The Ian Carey Project - Get Shaky (Macon RMX) [support by: I Hate Models, Tiesto]",
+          "permalink_url": "https://soundcloud.com/callmemacon/the-ian-carey-project-get-shaky-macons-hypertechno-remix",
+          "duration": 150250,
+          "user": "Macon",
+          "playback_count": 5532471,
+          "match_score": 48.5
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Coastline",
+      "spotify_artist": "Deeperlove, Da Hool, Robster",
+      "spotify_id": "7LUfUsIr9ocnn5dbl5kF3L",
+      "sc_match": {
+        "id": 1454804224,
+        "title": "Deeperlove, Da Hool, Robster - Coastline (Extended Mix)",
+        "permalink_url": "https://soundcloud.com/robster-232957597/deeperlove-da-hool-robster-coastline-extended-mix",
+        "duration": 221192,
+        "user": "Robster",
+        "playback_count": 21488,
+        "match_score": 79.5
+      },
+      "sc_candidates": [
+        {
+          "id": 1454804224,
+          "title": "Deeperlove, Da Hool, Robster - Coastline (Extended Mix)",
+          "permalink_url": "https://soundcloud.com/robster-232957597/deeperlove-da-hool-robster-coastline-extended-mix",
+          "duration": 221192,
+          "user": "Robster",
+          "playback_count": 21488,
+          "match_score": 79.5
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Heute Nacht",
+      "spotify_artist": "Maddix",
+      "spotify_id": "1eMUGMEWrvTXYWrPobq2dH",
+      "sc_match": {
+        "id": 1348362337,
+        "title": "Heute Nacht",
+        "permalink_url": "https://soundcloud.com/maddixmusic/heute-nacht",
+        "duration": 204465,
+        "user": "Maddix",
+        "playback_count": 3098760,
+        "match_score": 105.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1348362337,
+          "title": "Heute Nacht",
+          "permalink_url": "https://soundcloud.com/maddixmusic/heute-nacht",
+          "duration": 204465,
+          "user": "Maddix",
+          "playback_count": 3098760,
+          "match_score": 105.0
+        },
+        {
+          "id": 1425963655,
+          "title": "Heute Nacht (Sped Up)",
+          "permalink_url": "https://soundcloud.com/maddixmusic/heute-nacht-sped-up",
+          "duration": 178085,
+          "user": "Maddix",
+          "playback_count": 168186,
+          "match_score": 105.0
+        },
+        {
+          "id": 2174771130,
+          "title": "Heute Nacht (Extended Mix)",
+          "permalink_url": "https://soundcloud.com/maddixmusic/heute-nacht-extended-mix",
+          "duration": 314713,
+          "user": "Maddix",
+          "playback_count": 4811,
+          "match_score": 100.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Twisted",
+      "spotify_artist": "Hardwell, Will Sparks",
+      "spotify_id": "2hVKyTO50HPKfVmFas7Fcm",
+      "sc_match": {
+        "id": 1485316423,
+        "title": "Hardwell & Will Sparks - Twisted",
+        "permalink_url": "https://soundcloud.com/willsparks/hardwell-will-sparks-twisted",
+        "duration": 184935,
+        "user": "Will Sparks",
+        "playback_count": 51483,
+        "match_score": 92.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1485316423,
+          "title": "Hardwell & Will Sparks - Twisted",
+          "permalink_url": "https://soundcloud.com/willsparks/hardwell-will-sparks-twisted",
+          "duration": 184935,
+          "user": "Will Sparks",
+          "playback_count": 51483,
+          "match_score": 92.0
+        },
+        {
+          "id": 1442710453,
+          "title": "Hardwell x Will Sparks-Twisted x Titanium ft.Sia x Melbourne Sound 2.0(HARDWELL TOMORROWLAND MASHUP)",
+          "permalink_url": "https://soundcloud.com/dj_samt/hardwell-x-will-sparks-twisted-x-titanium-ftsia-x-melbourne-sound-20hardwell-tomorrowland-mashup",
+          "duration": 197226,
+          "user": "SAMT OFFICIAL",
+          "playback_count": 5422,
+          "match_score": 70.0
+        },
+        {
+          "id": 1303403713,
+          "title": "Hardwell & Will Sparks - Twisted [ULTRA EUROPE 2022 LIVE]",
+          "permalink_url": "https://soundcloud.com/user-608881384/hardwell-will-sparks-id-320-kbps",
+          "duration": 213550,
+          "user": "Jason Horizon 4.0",
+          "playback_count": 5818,
+          "match_score": 70.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Say It Again",
+      "spotify_artist": "Will Sparks",
+      "spotify_id": "2SMJ6186hk7p9m58XuTcS1",
+      "sc_match": {
+        "id": 1233827341,
+        "title": "Say It Again",
+        "permalink_url": "https://soundcloud.com/willsparks/will-sparks-say-it-again-1",
+        "duration": 207319,
+        "user": "Will Sparks",
+        "playback_count": 351816,
+        "match_score": 105.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1233827341,
+          "title": "Say It Again",
+          "permalink_url": "https://soundcloud.com/willsparks/will-sparks-say-it-again-1",
+          "duration": 207319,
+          "user": "Will Sparks",
+          "playback_count": 351816,
+          "match_score": 105.0
+        },
+        {
+          "id": 2217118352,
+          "title": "“Say It Again” -Will Sharp",
+          "permalink_url": "https://soundcloud.com/will-sharp-187489286/say-it-again-finished",
+          "duration": 227601,
+          "user": "Will Sharp",
+          "playback_count": 1557,
+          "match_score": 85.0
+        },
+        {
+          "id": 2359361897,
+          "title": "Will You Say It Again?",
+          "permalink_url": "https://soundcloud.com/conjecture1/will-you-say-it-again-1",
+          "duration": 221903,
+          "user": "lamechildren",
+          "playback_count": 15,
+          "match_score": 70.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Satisfaction - Hardwell & Maddix Remix",
+      "spotify_artist": "David Guetta, Benny Benassi, Hardwell, Maddix",
+      "spotify_id": "6L5xbckRDXIf5K1pwTaGkD",
+      "sc_match": {
+        "id": 1408176709,
+        "title": "Satisfaction (Hardwell & Maddix Remix)",
+        "permalink_url": "https://soundcloud.com/davidguetta/satisfaction-hardwell-maddix",
+        "duration": 204458,
+        "user": "David Guetta",
+        "playback_count": 1237619,
+        "match_score": 65.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1408176709,
+          "title": "Satisfaction (Hardwell & Maddix Remix)",
+          "permalink_url": "https://soundcloud.com/davidguetta/satisfaction-hardwell-maddix",
+          "duration": 204458,
+          "user": "David Guetta",
+          "playback_count": 1237619,
+          "match_score": 65.0
+        },
+        {
+          "id": 1447376497,
+          "title": "Lady Gaga vs. David Guetta, Benny Benassi vs. Hardwell & Maddix - Bloody Satisfaction",
+          "permalink_url": "https://soundcloud.com/lowkeydjs/david-guetta-benny-benassi-vs-hardwell-maddix-bloody-satisfaction",
+          "duration": 206273,
+          "user": "LOWKEY",
+          "playback_count": 34779,
+          "match_score": 52.0
+        },
+        {
+          "id": 1321555354,
+          "title": "David Guetta Vs Benny Benassi - Satisfaction",
+          "permalink_url": "https://soundcloud.com/spinninrecords/david-guetta-vs-benny-benassi-satisfaction",
+          "duration": 155723,
+          "user": "Spinnin' Records",
+          "playback_count": 648609,
+          "match_score": 21.666666666666664
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Praise The Lord (Da Shine) (feat. Skepta) - Durdenhauer Edit",
+      "spotify_artist": "Durdenhauer, A$AP Rocky, Skepta",
+      "spotify_id": "7jQkiAaa4XYYsPH3rcfcWo",
+      "sc_match": {
+        "id": 447287277,
+        "title": "Praise The Lord (Da Shine) [feat. Skepta]",
+        "permalink_url": "https://soundcloud.com/asvpxrocky/praise-the-lord-da-shine-feat",
+        "duration": 205086,
+        "user": "A$AP Rocky",
+        "playback_count": 48710750,
+        "match_score": 61.88888888888889
+      },
+      "sc_candidates": [
+        {
+          "id": 447287277,
+          "title": "Praise The Lord (Da Shine) [feat. Skepta]",
+          "permalink_url": "https://soundcloud.com/asvpxrocky/praise-the-lord-da-shine-feat",
+          "duration": 205086,
+          "user": "A$AP Rocky",
+          "playback_count": 48710750,
+          "match_score": 61.88888888888889
+        },
+        {
+          "id": 1213025317,
+          "title": "A$AP ROCKY - Praise the Lord (DURDENHAUER Edit) Extended Mix",
+          "permalink_url": "https://soundcloud.com/durdenhauer/praise-the-lord-durdenhauer-edit",
+          "duration": 337343,
+          "user": "DURDENHAUER",
+          "playback_count": 11976892,
+          "match_score": 38.77777777777778
+        },
+        {
+          "id": 1328150155,
+          "title": "A$AP ROCKY - Praise the Lord [DURDENHAUER Remix] (djluuca edit)",
+          "permalink_url": "https://soundcloud.com/djluuca69001020/aap-rocky-praise-the-lord-durdenhauer-remix-djluuca-edit",
+          "duration": 201925,
+          "user": "djluuca ✞ ツ ❣",
+          "playback_count": 3897398,
+          "match_score": 32.77777777777778
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "MOLLY (Will Sparks Remix)",
+      "spotify_artist": "Cedric Gervais, Joel Corry, Will Sparks",
+      "spotify_id": "6NHiXIDWuFMYNWza24rk9y",
+      "sc_match": {
+        "id": 1520176969,
+        "title": "Cedric Gervais & Joel Corry - MOLLY (Will Sparks Remix)",
+        "permalink_url": "https://soundcloud.com/willsparks/molly-will-sparks-remix-spotify",
+        "duration": 199157,
+        "user": "Will Sparks",
+        "playback_count": 71615,
+        "match_score": 82.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1520176969,
+          "title": "Cedric Gervais & Joel Corry - MOLLY (Will Sparks Remix)",
+          "permalink_url": "https://soundcloud.com/willsparks/molly-will-sparks-remix-spotify",
+          "duration": 199157,
+          "user": "Will Sparks",
+          "playback_count": 71615,
+          "match_score": 82.0
+        },
+        {
+          "id": 1473599989,
+          "title": "MOLLY (Will Sparks Remix)",
+          "permalink_url": "https://soundcloud.com/cedricgervais/molly-will-sparks-remix",
+          "duration": 199132,
+          "user": "Cedric Gervais",
+          "playback_count": 70755,
+          "match_score": 82.0
+        },
+        {
+          "id": 1813633821,
+          "title": "MOLLY (Will Sparks Remix) [Extended Mix]",
+          "permalink_url": "https://soundcloud.com/cedricgervais/molly-will-sparks-remix-1",
+          "duration": 266713,
+          "user": "Cedric Gervais",
+          "playback_count": 223,
+          "match_score": 80.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "The Lone Ranger",
+      "spotify_artist": "NWYR, W&W",
+      "spotify_id": "12KMoAMzaeBFh91O5sxP2o",
+      "sc_match": {
+        "id": 2338591853,
+        "title": "The Lone Ranger",
+        "permalink_url": "https://soundcloud.com/user-445350988/the-lone-ranger",
+        "duration": 349360,
+        "user": "W1ll2kay",
+        "playback_count": 0,
+        "match_score": 70.0
+      },
+      "sc_candidates": [
+        {
+          "id": 2338591853,
+          "title": "The Lone Ranger",
+          "permalink_url": "https://soundcloud.com/user-445350988/the-lone-ranger",
+          "duration": 349360,
+          "user": "W1ll2kay",
+          "playback_count": 0,
+          "match_score": 70.0
+        },
+        {
+          "id": 1280145556,
+          "title": "(D.o.w.n.l.o.a.d) P.D.F The Lone Ranger and Tonto Meet Buddha: Masks, Meditation, and Improvised Pla",
+          "permalink_url": "https://soundcloud.com/user-37303370/q0xdepr3yn-qwr882",
+          "duration": 211069,
+          "user": "Mungkin nanti",
+          "playback_count": 5,
+          "match_score": 70.0
+        },
+        {
+          "id": 1487937178,
+          "title": "The Greece Ranger - W&W & MARTIN JANSEN vs NWYR",
+          "permalink_url": "https://soundcloud.com/aryo_music/the-greece-ranger",
+          "duration": 378801,
+          "user": "ARYO",
+          "playback_count": 158,
+          "match_score": 33.33333333333333
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Seduction",
+      "spotify_artist": "Hardwell, Olly James",
+      "spotify_id": "47JBICKenLcZ2mukYVxDXx",
+      "sc_match": {
+        "id": 1442415094,
+        "title": "Hardwell & Olly James - Seduction (Calling Mashup) [LIVE]",
+        "permalink_url": "https://soundcloud.com/hardwellultraeurope2022/hardwell-olly-james-seduction-w-calling-acapella-best-quality",
+        "duration": 96200,
+        "user": "Hardwell ID",
+        "playback_count": 1498,
+        "match_score": 80.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1442415094,
+          "title": "Hardwell & Olly James - Seduction (Calling Mashup) [LIVE]",
+          "permalink_url": "https://soundcloud.com/hardwellultraeurope2022/hardwell-olly-james-seduction-w-calling-acapella-best-quality",
+          "duration": 96200,
+          "user": "Hardwell ID",
+          "playback_count": 1498,
+          "match_score": 80.0
+        },
+        {
+          "id": 1488338884,
+          "title": "Hardwell & Olly James vs. Eminem - Seduction vs. Lose Yourself (Hardwell Mashup) (Jake Fab Re-Mash)",
+          "permalink_url": "https://soundcloud.com/jakefabmusic/hardwell-olly-james-vs-eminem-seduction-vs-lose-yourself-hardwell-mashup-jake-fab-re-mash-2",
+          "duration": 605057,
+          "user": "Jake Fab",
+          "playback_count": 17626,
+          "match_score": 72.0
+        },
+        {
+          "id": 1483284490,
+          "title": "Hardwell & Olly James - Flatline (Extended Mix)",
+          "permalink_url": "https://soundcloud.com/hardwellultraeurope2022/flatline-extended-mix",
+          "duration": 258057,
+          "user": "Hardwell ID",
+          "playback_count": 45750,
+          "match_score": 12.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Big Jet Plane",
+      "spotify_artist": "Restricted",
+      "spotify_id": "6nYJWAPKIJfXIKtiYc4P4O",
+      "sc_match": {
+        "id": 1398681103,
+        "title": "Big Jet Plane",
+        "permalink_url": "https://soundcloud.com/itsrestricted/big-jet-plane-1",
+        "duration": 150037,
+        "user": "Restricted",
+        "playback_count": 3937774,
+        "match_score": 105.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1398681103,
+          "title": "Big Jet Plane",
+          "permalink_url": "https://soundcloud.com/itsrestricted/big-jet-plane-1",
+          "duration": 150037,
+          "user": "Restricted",
+          "playback_count": 3937774,
+          "match_score": 105.0
+        },
+        {
+          "id": 1687626255,
+          "title": "Big Jet Plane",
+          "permalink_url": "https://soundcloud.com/user561805135/big-jet-plane",
+          "duration": 210247,
+          "user": "STRATAH",
+          "playback_count": 194093,
+          "match_score": 75.0
+        },
+        {
+          "id": 1377261745,
+          "title": "Big Jet Plane (JUVIUS Remix)",
+          "permalink_url": "https://soundcloud.com/devinfloyd/big-jet-plane-devin-remix",
+          "duration": 309913,
+          "user": "JUVIUS",
+          "playback_count": 1499116,
+          "match_score": 75.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "TABU.",
+      "spotify_artist": "Yung Yury, Damn Yury",
+      "spotify_id": "42Ztw2ZtZR3mtWjXpg0R5I",
+      "sc_match": {
+        "id": 1480270675,
+        "title": "Yung Yury - TABU.",
+        "permalink_url": "https://soundcloud.com/yung-yury/yung-yury-tabu",
+        "duration": 135348,
+        "user": "Yung yury",
+        "playback_count": 2258892,
+        "match_score": 95.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1480270675,
+          "title": "Yung Yury - TABU.",
+          "permalink_url": "https://soundcloud.com/yung-yury/yung-yury-tabu",
+          "duration": 135348,
+          "user": "Yung yury",
+          "playback_count": 2258892,
+          "match_score": 95.0
+        },
+        {
+          "id": 1497354835,
+          "title": "Yung Yury & Damn Yury - Tabu. (A.K Germany Remix)",
+          "permalink_url": "https://soundcloud.com/djak_germany/yung-yury-damn-yury-tabu-ak-germany-remix",
+          "duration": 146723,
+          "user": "A.K Germany",
+          "playback_count": 1108681,
+          "match_score": 75.0
+        },
+        {
+          "id": 1510338541,
+          "title": "Yung Yury, Damn Yury - TABU. (NOISETIME X Sunlike Brothers Remix)",
+          "permalink_url": "https://soundcloud.com/noisetimeofficial/yung-yury-damn-yury-tabu-noisetime-x-sunlike-brothers-remix",
+          "duration": 161199,
+          "user": "NOISETIME",
+          "playback_count": 210288,
+          "match_score": 75.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "California Dreamin' (feat. High Jinx)",
+      "spotify_artist": "Chris Lorenzo, High Jinx",
+      "spotify_id": "4ASOMWcJUrwEpjJy4GEijz",
+      "sc_match": {
+        "id": 1134135967,
+        "title": "California Dreamin' (feat. High Jinx)",
+        "permalink_url": "https://soundcloud.com/chris-lorenzo-1/california-dreamin-feat-high",
+        "duration": 196920,
+        "user": "Chris Lorenzo",
+        "playback_count": 2693705,
+        "match_score": 90.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1134135967,
+          "title": "California Dreamin' (feat. High Jinx)",
+          "permalink_url": "https://soundcloud.com/chris-lorenzo-1/california-dreamin-feat-high",
+          "duration": 196920,
+          "user": "Chris Lorenzo",
+          "playback_count": 2693705,
+          "match_score": 90.0
+        },
+        {
+          "id": 1234012153,
+          "title": "California Dreamin' (Cages Remix) [feat. High Jinx]",
+          "permalink_url": "https://soundcloud.com/chris-lorenzo-1/california-dreamin-cages-remix",
+          "duration": 226605,
+          "user": "Chris Lorenzo",
+          "playback_count": 179653,
+          "match_score": 70.0
+        },
+        {
+          "id": 1166029126,
+          "title": "California Dreamin' (Vintage Culture Remix) [feat. High Jinx]",
+          "permalink_url": "https://soundcloud.com/chris-lorenzo-1/california-dreamin-vintage",
+          "duration": 183771,
+          "user": "Chris Lorenzo",
+          "playback_count": 283141,
+          "match_score": 70.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "train tekkno",
+      "spotify_artist": "TEKKNO",
+      "spotify_id": "1aAHu9djJbxchpC7N7J5T2",
+      "sc_match": {
+        "id": 1480630108,
+        "title": "Electric Callboy - TEKKNO TRAIN (OFFICIAL VIDEO)",
+        "permalink_url": "https://soundcloud.com/zero-blackfire-382261887/electric-callboy-tekkno-train-official-video",
+        "duration": 183019,
+        "user": "ｚａｉｒｏｓ",
+        "playback_count": 124871,
+        "match_score": 55.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1480630108,
+          "title": "Electric Callboy - TEKKNO TRAIN (OFFICIAL VIDEO)",
+          "permalink_url": "https://soundcloud.com/zero-blackfire-382261887/electric-callboy-tekkno-train-official-video",
+          "duration": 183019,
+          "user": "ｚａｉｒｏｓ",
+          "playback_count": 124871,
+          "match_score": 55.0
+        },
+        {
+          "id": 1246996825,
+          "title": "Tekkno Train",
+          "permalink_url": "https://soundcloud.com/electriccallboy/tekkno-train",
+          "duration": 177647,
+          "user": "Electric Callboy",
+          "playback_count": 73049,
+          "match_score": 52.0
+        },
+        {
+          "id": 1715475021,
+          "title": "strangers tekkno",
+          "permalink_url": "https://soundcloud.com/kirill-shvatskiy-496860001/strangers-tekkno-mp3",
+          "duration": 183112,
+          "user": "kirills124",
+          "playback_count": 900280,
+          "match_score": 30.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Drugs From Amsterdam",
+      "spotify_artist": "Mau P",
+      "spotify_id": "0w7JPlp7eEQI2EKW3ayXrv",
+      "sc_match": {
+        "id": 1349048875,
+        "title": "Drugs From Amsterdam",
+        "permalink_url": "https://soundcloud.com/realmaup/drugs-from-amsterdam",
+        "duration": 235832,
+        "user": "Mau P",
+        "playback_count": 3751716,
+        "match_score": 105.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1349048875,
+          "title": "Drugs From Amsterdam",
+          "permalink_url": "https://soundcloud.com/realmaup/drugs-from-amsterdam",
+          "duration": 235832,
+          "user": "Mau P",
+          "playback_count": 3751716,
+          "match_score": 105.0
+        },
+        {
+          "id": 1454664049,
+          "title": "Drugs From Amsterdam (Armand Van Helden Remix)",
+          "permalink_url": "https://soundcloud.com/realmaup/drugs-from-amsterdam-armand",
+          "duration": 156944,
+          "user": "Mau P",
+          "playback_count": 93799,
+          "match_score": 102.0
+        },
+        {
+          "id": 1329586186,
+          "title": "Mau P - Drugs From Amsterdam (Tazi Edit)",
+          "permalink_url": "https://soundcloud.com/taziaus/drugs-from-amsterdam-tazi-edit",
+          "duration": 226921,
+          "user": "Tazi",
+          "playback_count": 4311500,
+          "match_score": 75.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Home Alone (with Marnik)",
+      "spotify_artist": "Naeleck, Vini Vici, Marnik",
+      "spotify_id": "7zyvQ8sb72g4RuwBpcuGUP",
+      "sc_match": {
+        "id": 1636782084,
+        "title": "Naeleck & Vini Vici - Home Alone (with Marnik)",
+        "permalink_url": "https://soundcloud.com/naeleck/home-alone",
+        "duration": 128077,
+        "user": "Naeleck",
+        "playback_count": 725656,
+        "match_score": 82.5
+      },
+      "sc_candidates": [
+        {
+          "id": 1636782084,
+          "title": "Naeleck & Vini Vici - Home Alone (with Marnik)",
+          "permalink_url": "https://soundcloud.com/naeleck/home-alone",
+          "duration": 128077,
+          "user": "Naeleck",
+          "playback_count": 725656,
+          "match_score": 82.5
+        },
+        {
+          "id": 1651335474,
+          "title": "Vini Vici - Naeleck - Home Alone - with Marnik - KAKAROT",
+          "permalink_url": "https://soundcloud.com/spin-nguyen-76937192/vini-vici-naeleck-home-alone-with-marnik-kakarot",
+          "duration": 308551,
+          "user": "Spin Nguyễn 20 (KAKAROT)",
+          "playback_count": 45054,
+          "match_score": 52.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Insomnia",
+      "spotify_artist": "Toby DEE, Fun[k]House, Felix Harrer, Flyjacker",
+      "spotify_id": "1s89GPlBOEqKjpXc1GXtsO",
+      "sc_match": {
+        "id": 1411700887,
+        "title": "Insomnia [Bigroom Techno Remix] - Toby DEE, Fun[k]house & Felix Harrer feat. Flyjacker",
+        "permalink_url": "https://soundcloud.com/tobydee_official/insomnia-toby-dee-funkhouse-felix-harrer-feat-flyjacker-radio-mix",
+        "duration": 136163,
+        "user": "DJ Toby DEE",
+        "playback_count": 254243,
+        "match_score": 82.5
+      },
+      "sc_candidates": [
+        {
+          "id": 1411700887,
+          "title": "Insomnia [Bigroom Techno Remix] - Toby DEE, Fun[k]house & Felix Harrer feat. Flyjacker",
+          "permalink_url": "https://soundcloud.com/tobydee_official/insomnia-toby-dee-funkhouse-felix-harrer-feat-flyjacker-radio-mix",
+          "duration": 136163,
+          "user": "DJ Toby DEE",
+          "playback_count": 254243,
+          "match_score": 82.5
+        },
+        {
+          "id": 1668734394,
+          "title": "Insomnia [Bigroom Techno Remix 2023] - Toby DEE, Fun[k]house & Felix Harrer Feat. Flyjacker",
+          "permalink_url": "https://soundcloud.com/dylan-lebel-541137935/insomnia-bigroom-techno-remix-2023-toby-dee-funkhouse-felix-harrer-feat-flyjacker",
+          "duration": 136163,
+          "user": "Dylan Lebel",
+          "playback_count": 333,
+          "match_score": 70.0
+        },
+        {
+          "id": 1461815584,
+          "title": "Yeah!  [Bigroom Techno Remix 2023] - Toby DEE, Fun[k]house & Felix Harrer feat. Flyjacker",
+          "permalink_url": "https://soundcloud.com/tobydee_official/yeah-bigroom-techno-remix-2023-toby-dee-funkhouse-felix-harrer-feat-flyjacker",
+          "duration": 173250,
+          "user": "DJ Toby DEE",
+          "playback_count": 12279,
+          "match_score": 9.5
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Thank You (Not So Bad)",
+      "spotify_artist": "Dimitri Vegas & Like Mike, Tiësto, Dido, W&W, Dimitri Vegas, Like Mike",
+      "spotify_id": "09CnYHiZ5jGT1wr1TXJ9Zt",
+      "sc_match": {
+        "id": 1677753114,
+        "title": "Dimitri Vegas & Like Mike x Tiësto x DIDO x W&W - Thank You (Not So Bad) | Free Download",
+        "permalink_url": "https://soundcloud.com/edm_g9/dimitri-vegas-like-mike-x",
+        "duration": 305249,
+        "user": "EDM Gallery",
+        "playback_count": 484522,
+        "match_score": 75.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1677753114,
+          "title": "Dimitri Vegas & Like Mike x Tiësto x DIDO x W&W - Thank You (Not So Bad) | Free Download",
+          "permalink_url": "https://soundcloud.com/edm_g9/dimitri-vegas-like-mike-x",
+          "duration": 305249,
+          "user": "EDM Gallery",
+          "playback_count": 484522,
+          "match_score": 75.0
+        },
+        {
+          "id": 1772656068,
+          "title": "Dimitri Vegas & Like Mike & Tiësto & Dido & W&W - Thank You (Not So Bad) (Ape Rave Club Remix)",
+          "permalink_url": "https://soundcloud.com/aperaveclub/thankyouarcremix",
+          "duration": 225352,
+          "user": "APE RAVE CLUB",
+          "playback_count": 103504,
+          "match_score": 75.0
+        },
+        {
+          "id": 1735759200,
+          "title": "Dimitri Vegas & Like Mike x Tiësto x W&W Feat. Dido - Thank You (Not So Bad) (Nick Shades Remix)",
+          "permalink_url": "https://soundcloud.com/nickshadesofficial/thank-you-not-so-bad-nick-shades-remix",
+          "duration": 155456,
+          "user": "Nick Shades",
+          "playback_count": 45721,
+          "match_score": 72.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Be The One",
+      "spotify_artist": "Eli Brown",
+      "spotify_id": "1cQld05IcUDw3RCFt7uymW",
+      "sc_match": {
+        "id": 1476296635,
+        "title": "Be The One",
+        "permalink_url": "https://soundcloud.com/elibrownbeats/be-the-one",
+        "duration": 169874,
+        "user": "Eli Brown",
+        "playback_count": 4601591,
+        "match_score": 105.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1476296635,
+          "title": "Be The One",
+          "permalink_url": "https://soundcloud.com/elibrownbeats/be-the-one",
+          "duration": 169874,
+          "user": "Eli Brown",
+          "playback_count": 4601591,
+          "match_score": 105.0
+        },
+        {
+          "id": 1501199119,
+          "title": "Eli Brown - Be The One (Adam Cutting Edit)",
+          "permalink_url": "https://soundcloud.com/adam-cutting-1adzcut/eli-brown-be-the-one-adam",
+          "duration": 337283,
+          "user": "Adam Cutting",
+          "playback_count": 1656088,
+          "match_score": 75.0
+        },
+        {
+          "id": 1553647204,
+          "title": "Eli Brown - Be The One (Junkie Kid Edit)",
+          "permalink_url": "https://soundcloud.com/junkiekidmusic/eli-brown-be-the-one-junkie-kid-edit",
+          "duration": 348493,
+          "user": "JUNKIE KID",
+          "playback_count": 129158,
+          "match_score": 75.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Lollipop",
+      "spotify_artist": "FOVOS",
+      "spotify_id": "0iG3esqSDh6QJdN1zrAgyo",
+      "sc_match": {
+        "id": 1550542759,
+        "title": "Lollipop",
+        "permalink_url": "https://soundcloud.com/fovosmusic/lollipop",
+        "duration": 144046,
+        "user": "FOVOS",
+        "playback_count": 641246,
+        "match_score": 105.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1550542759,
+          "title": "Lollipop",
+          "permalink_url": "https://soundcloud.com/fovosmusic/lollipop",
+          "duration": 144046,
+          "user": "FOVOS",
+          "playback_count": 641246,
+          "match_score": 105.0
+        },
+        {
+          "id": 1874973849,
+          "title": "Lollipop (FOVOS, JSTJR Hard Edit)",
+          "permalink_url": "https://soundcloud.com/fovosmusic/lollipop-fovos-jstjr-hard-edit",
+          "duration": 167247,
+          "user": "FOVOS",
+          "playback_count": 20564,
+          "match_score": 102.0
+        },
+        {
+          "id": 1874972985,
+          "title": "Lollipop (Achilles Edit)",
+          "permalink_url": "https://soundcloud.com/fovosmusic/lollipop-achilles-edit",
+          "duration": 175883,
+          "user": "FOVOS",
+          "playback_count": 9850,
+          "match_score": 100.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Pon De Replay",
+      "spotify_artist": "AJAK, Emie",
+      "spotify_id": "7GlTmlTip8mzLlwgTDvxPe",
+      "sc_match": {
+        "id": 1290035335,
+        "title": "Pon De Replay",
+        "permalink_url": "https://soundcloud.com/ajakk/pon-de-replay-vibe-dealers-remix",
+        "duration": 165465,
+        "user": "AJAK",
+        "playback_count": 6469347,
+        "match_score": 90.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1290035335,
+          "title": "Pon De Replay",
+          "permalink_url": "https://soundcloud.com/ajakk/pon-de-replay-vibe-dealers-remix",
+          "duration": 165465,
+          "user": "AJAK",
+          "playback_count": 6469347,
+          "match_score": 90.0
+        },
+        {
+          "id": 2110415349,
+          "title": "Pon De Replay (Extended)",
+          "permalink_url": "https://soundcloud.com/ajakk/pon-de-replay-extended",
+          "duration": 201592,
+          "user": "AJAK",
+          "playback_count": 563,
+          "match_score": 85.0
+        },
+        {
+          "id": 1360866793,
+          "title": "Pon De Replay - Rihanna  (Ajak Remix)",
+          "permalink_url": "https://soundcloud.com/vfrostyfish/pon-de-replay-rihanna-ajak-remix",
+          "duration": 265636,
+          "user": "BSLM",
+          "playback_count": 704833,
+          "match_score": 75.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Typa Girl",
+      "spotify_artist": "southstar",
+      "spotify_id": "16SKOkyJsJNeJkHUFTcDUm",
+      "sc_match": {
+        "id": 1506445528,
+        "title": "Typa Girl",
+        "permalink_url": "https://soundcloud.com/user-894394120-615016070/typa-girl",
+        "duration": 184773,
+        "user": "southstar",
+        "playback_count": 616368,
+        "match_score": 105.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1506445528,
+          "title": "Typa Girl",
+          "permalink_url": "https://soundcloud.com/user-894394120-615016070/typa-girl",
+          "duration": 184773,
+          "user": "southstar",
+          "playback_count": 616368,
+          "match_score": 105.0
+        },
+        {
+          "id": 1643863863,
+          "title": "SOUTHSTAR - TYPA GIRL (FLOURIAN BOOTLEG) FREE DOWNLOAD",
+          "permalink_url": "https://soundcloud.com/flourian/southstar-typa-girl-flourian-bootleg-free-download",
+          "duration": 160605,
+          "user": "Flourian",
+          "playback_count": 40240,
+          "match_score": 72.0
+        },
+        {
+          "id": 1675720503,
+          "title": "SOUTHSTAR - TYPA GIRL (FH BOOTLEG)(1500 FOLLOWERS)",
+          "permalink_url": "https://soundcloud.com/flinkeherrie/flinkeherrie-typa-girl-edit",
+          "duration": 155437,
+          "user": "Flinke Herrie",
+          "playback_count": 20011,
+          "match_score": 72.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Annihilate",
+      "spotify_artist": "Will Sparks",
+      "spotify_id": "5eAhXdQwzlFwHkZhiJ1KHg",
+      "sc_match": {
+        "id": 1335698389,
+        "title": "Annihilate",
+        "permalink_url": "https://soundcloud.com/willsparks/annihilate",
+        "duration": 165021,
+        "user": "Will Sparks",
+        "playback_count": 440543,
+        "match_score": 105.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1335698389,
+          "title": "Annihilate",
+          "permalink_url": "https://soundcloud.com/willsparks/annihilate",
+          "duration": 165021,
+          "user": "Will Sparks",
+          "playback_count": 440543,
+          "match_score": 105.0
+        },
+        {
+          "id": 2328816530,
+          "title": "Will Sparks - Annihilate (DARRIQ Edit)",
+          "permalink_url": "https://soundcloud.com/01darriq/will-sparks-annihilate-1",
+          "duration": 217696,
+          "user": "Darriq",
+          "playback_count": 239,
+          "match_score": 70.0
+        },
+        {
+          "id": 1593636972,
+          "title": "Will Sparks X Swedish House Mafia - Annihilate Redlight (M.W.F Mashup)",
+          "permalink_url": "https://soundcloud.com/m_w_fmusic/will-sparks-x-swedish-house-mafia-annihilate-redlight-mwf-mashup",
+          "duration": 232546,
+          "user": "M.W.F",
+          "playback_count": 7358,
+          "match_score": 70.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Feel The Rhythm",
+      "spotify_artist": "FOVOS",
+      "spotify_id": "5ruAfadigoJgCI5DnnMshZ",
+      "sc_match": {
+        "id": 1342385170,
+        "title": "Feel The Rhythm",
+        "permalink_url": "https://soundcloud.com/fovosmusic/feel-the-rhythm-1",
+        "duration": 200910,
+        "user": "FOVOS",
+        "playback_count": 568310,
+        "match_score": 105.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1342385170,
+          "title": "Feel The Rhythm",
+          "permalink_url": "https://soundcloud.com/fovosmusic/feel-the-rhythm-1",
+          "duration": 200910,
+          "user": "FOVOS",
+          "playback_count": 568310,
+          "match_score": 105.0
+        },
+        {
+          "id": 2175936534,
+          "title": "Feel The Rhythm (Extended Mix)",
+          "permalink_url": "https://soundcloud.com/fovosmusic/feel-the-rhythm-extended-mix",
+          "duration": 229379,
+          "user": "FOVOS",
+          "playback_count": 1260,
+          "match_score": 100.0
+        },
+        {
+          "id": 1712431452,
+          "title": "Edvvin - Feel The Rhythm",
+          "permalink_url": "https://soundcloud.com/edvvin/edvvin-feel-the-rhythm",
+          "duration": 311379,
+          "user": "Edvvin",
+          "playback_count": 132361,
+          "match_score": 75.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Take Me Back",
+      "spotify_artist": "NGD Project, Steeper",
+      "spotify_id": "7vvNxVTviMy2dwIhaziOab",
+      "sc_match": {
+        "id": 1776288045,
+        "title": "NGD Project & Steeper - Take Me Back [Bounce & Bass]",
+        "permalink_url": "https://soundcloud.com/steepermusic/ngd-project-steeper-take-me-back",
+        "duration": 169380,
+        "user": "Steeper",
+        "playback_count": 1230,
+        "match_score": 80.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1776288045,
+          "title": "NGD Project & Steeper - Take Me Back [Bounce & Bass]",
+          "permalink_url": "https://soundcloud.com/steepermusic/ngd-project-steeper-take-me-back",
+          "duration": 169380,
+          "user": "Steeper",
+          "playback_count": 1230,
+          "match_score": 80.0
+        },
+        {
+          "id": 1775740875,
+          "title": "NGD Project & Steeper - Take Me Back",
+          "permalink_url": "https://soundcloud.com/bounceandbass/ngd-project-steeper-take-me-back",
+          "duration": 169380,
+          "user": "Bounce & Bass",
+          "playback_count": 9058,
+          "match_score": 70.0
+        },
+        {
+          "id": 2036575624,
+          "title": "Twin Turbo Radio Ep. 95 (Steeper Guest Mix)",
+          "permalink_url": "https://soundcloud.com/castorandpollux_music/twin-turbo-radio-ep-95",
+          "duration": 3506751,
+          "user": "Castor & Pollux",
+          "playback_count": 3055,
+          "match_score": 0.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Cannonball - Will Sparks Remix",
+      "spotify_artist": "Showtek, Justin Prime, Will Sparks",
+      "spotify_id": "6enKadRri39CNEK6XymArK",
+      "sc_match": {
+        "id": 1650827361,
+        "title": "Cannonball (Will Sparks Remix)",
+        "permalink_url": "https://soundcloud.com/showtek/cannonball-will-sparks-remix",
+        "duration": 243575,
+        "user": "Showtek",
+        "playback_count": 4907,
+        "match_score": 56.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1650827361,
+          "title": "Cannonball (Will Sparks Remix)",
+          "permalink_url": "https://soundcloud.com/showtek/cannonball-will-sparks-remix",
+          "duration": 243575,
+          "user": "Showtek",
+          "playback_count": 4907,
+          "match_score": 56.0
+        },
+        {
+          "id": 2147931045,
+          "title": "Cannonball (Will Sparks Remix) [Extended Mix]",
+          "permalink_url": "https://soundcloud.com/showtek/cannonball-will-sparks-remix-1",
+          "duration": 361922,
+          "user": "Showtek",
+          "playback_count": 176,
+          "match_score": 56.0
+        },
+        {
+          "id": 1575791425,
+          "title": "Showtek, Justin Prime - Cannonball (Will Sparks Remix)",
+          "permalink_url": "https://soundcloud.com/2-dutch/showtek-justin-prime-cannonball-will-sparks-remix",
+          "duration": 243575,
+          "user": "2-Dutch",
+          "playback_count": 57463,
+          "match_score": 52.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Black Pullet (Will Sparks Remix)",
+      "spotify_artist": "Steve Aoki, Will Sparks",
+      "spotify_id": "6LIg2RgMxpKEMFvEwhdgNq",
+      "sc_match": {
+        "id": 1371297769,
+        "title": "Black Pullet (Will Sparks Remix)",
+        "permalink_url": "https://soundcloud.com/steveaoki/black-pullet-will-sparks-remix",
+        "duration": 343901,
+        "user": "Steve Aoki",
+        "playback_count": 45504,
+        "match_score": 87.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1371297769,
+          "title": "Black Pullet (Will Sparks Remix)",
+          "permalink_url": "https://soundcloud.com/steveaoki/black-pullet-will-sparks-remix",
+          "duration": 343901,
+          "user": "Steve Aoki",
+          "playback_count": 45504,
+          "match_score": 87.0
+        },
+        {
+          "id": 1384888246,
+          "title": "9TS X Black Pullet (Will Sparks Remix) (Angus Jackson Vocal Edit) DL**",
+          "permalink_url": "https://soundcloud.com/angus-jackson2/9ts-x-black-pullet-will-sparks-remix-angus-jackson-vocal-edit",
+          "duration": 346842,
+          "user": "ANGUS JACKSON (AUS)",
+          "playback_count": 23756,
+          "match_score": 72.0
+        },
+        {
+          "id": 689071855,
+          "title": "Steve Aoki & Will Sparks - Send It",
+          "permalink_url": "https://soundcloud.com/steveaoki/steve-aoki-will-sparks-send-it",
+          "duration": 182772,
+          "user": "Steve Aoki",
+          "playback_count": 276037,
+          "match_score": 45.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "I Wanna Dance",
+      "spotify_artist": "Hardwell, Nicky Romero, MERYLL",
+      "spotify_id": "2UMDjpShbeQoON9Dn7ONMK",
+      "sc_match": {
+        "id": 1643416188,
+        "title": "Hardwell & Nicky Romero Ft. Meryll - I Wanna Dance | Download",
+        "permalink_url": "https://soundcloud.com/edm_g9/hardwell-nicky-romero-ft",
+        "duration": 223891,
+        "user": "EDM Gallery",
+        "playback_count": 19730,
+        "match_score": 72.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1643416188,
+          "title": "Hardwell & Nicky Romero Ft. Meryll - I Wanna Dance | Download",
+          "permalink_url": "https://soundcloud.com/edm_g9/hardwell-nicky-romero-ft",
+          "duration": 223891,
+          "user": "EDM Gallery",
+          "playback_count": 19730,
+          "match_score": 72.0
+        },
+        {
+          "id": 2045774088,
+          "title": "AESPA - SUPERNOVA vs Hardwell, Nicky Romero, MERYLL - I wanna dance (Tarzan Mashup)",
+          "permalink_url": "https://soundcloud.com/tarzan-757713767/aespa-supernova-vs-hardwell-nicky-romero-meryll-i-wanna-dance-tarzan-mashup",
+          "duration": 129013,
+          "user": "Tarzan",
+          "playback_count": 168,
+          "match_score": 70.0
+        },
+        {
+          "id": 1633219443,
+          "title": "Hardwell E Nicky Romero Contro Miley Cyrus - I Wanna Dance vs Flowers (Nicky Romero Mashup)",
+          "permalink_url": "https://soundcloud.com/marcoamazing/hardwell-e-nicky-romero-contro-miley-cyrus-i-wanna-dance-contro-flowers-nicky-romero-mashup",
+          "duration": 225094,
+          "user": "Marco Nardone",
+          "playback_count": 2773,
+          "match_score": 70.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "On Your Own",
+      "spotify_artist": "Mariana BO, Lockdown",
+      "spotify_id": "3JvKkSKAmFod64Vvl4wPPK",
+      "sc_match": {
+        "id": 1734929274,
+        "title": "Mariana Bo & Lockdown - On Your Own",
+        "permalink_url": "https://soundcloud.com/dancingdeadrecords/onyourown",
+        "duration": 204490,
+        "user": "Dancing Dead",
+        "playback_count": 12561,
+        "match_score": 72.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1734929274,
+          "title": "Mariana Bo & Lockdown - On Your Own",
+          "permalink_url": "https://soundcloud.com/dancingdeadrecords/onyourown",
+          "duration": 204490,
+          "user": "Dancing Dead",
+          "playback_count": 12561,
+          "match_score": 72.0
+        },
+        {
+          "id": 1788361381,
+          "title": "Bounce Inc. Radio Show vol 2",
+          "permalink_url": "https://soundcloud.com/bounceincofficial/bounce-inc-radio-show-vol-2",
+          "duration": 3547842,
+          "user": "Bounce Inc.",
+          "playback_count": 63,
+          "match_score": 0.0
+        },
+        {
+          "id": 1823598057,
+          "title": "Jordy Copz Opti'mix EDM #82",
+          "permalink_url": "https://soundcloud.com/djjo29/jordy-copz-optimix-edm-82",
+          "duration": 5382168,
+          "user": "Jordy Copz",
+          "playback_count": 238,
+          "match_score": 0.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Miracle",
+      "spotify_artist": "Lockdown, Veronica Bravo",
+      "spotify_id": "4YoYhjRFCUSTnCdFoxdZ8p",
+      "sc_match": {
+        "id": 1716190746,
+        "title": "Miracle - Lockdown x Veronica Bravo",
+        "permalink_url": "https://soundcloud.com/lockdown-aus/miracle-lockdown-x-veronica-bravo",
+        "duration": 151788,
+        "user": "Lockdown",
+        "playback_count": 17383,
+        "match_score": 82.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1716190746,
+          "title": "Miracle - Lockdown x Veronica Bravo",
+          "permalink_url": "https://soundcloud.com/lockdown-aus/miracle-lockdown-x-veronica-bravo",
+          "duration": 151788,
+          "user": "Lockdown",
+          "playback_count": 17383,
+          "match_score": 82.0
+        },
+        {
+          "id": 1492536331,
+          "title": "No More (feat. Veronica Bravo)",
+          "permalink_url": "https://soundcloud.com/lockdown-aus/no-more-feat-veronica-bravo",
+          "duration": 169621,
+          "user": "Lockdown",
+          "playback_count": 10581,
+          "match_score": 12.0
+        },
+        {
+          "id": 1815944307,
+          "title": "No More (feat. Veronica Bravo) [Extended Mix]",
+          "permalink_url": "https://soundcloud.com/lockdown-aus/no-more-feat-veronica-bravo-1",
+          "duration": 215246,
+          "user": "Lockdown",
+          "playback_count": 23,
+          "match_score": 10.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Burning Wish - Club Mix",
+      "spotify_artist": "Naeleck, Roniit",
+      "spotify_id": "0Cee1LAeUGVPfcX95fZYPp",
+      "sc_match": {
+        "id": 2281543022,
+        "title": "Burning Wish (Club Mix) [feat. Roniit]",
+        "permalink_url": "https://soundcloud.com/naeleck-sc/burning-wish-club-mix-feat",
+        "duration": 171582,
+        "user": "Naeleck",
+        "playback_count": 31,
+        "match_score": 65.0
+      },
+      "sc_candidates": [
+        {
+          "id": 2281543022,
+          "title": "Burning Wish (Club Mix) [feat. Roniit]",
+          "permalink_url": "https://soundcloud.com/naeleck-sc/burning-wish-club-mix-feat",
+          "duration": 171582,
+          "user": "Naeleck",
+          "playback_count": 31,
+          "match_score": 65.0
+        },
+        {
+          "id": 1746123108,
+          "title": "Naeleck - Burning Wish (ft. Roniit) (Club Mix) [NCS Release]",
+          "permalink_url": "https://soundcloud.com/nocopyrightsounds/naeleck-burning-wish-ft-roniit-club-mix-ncs-release",
+          "duration": 171582,
+          "user": "NCS",
+          "playback_count": 30235,
+          "match_score": 52.0
+        },
+        {
+          "id": 1973029179,
+          "title": "Naeleck - Burning Wish (Ft. Roniit) (MYTHENS Club Remix) [NCS Release]",
+          "permalink_url": "https://soundcloud.com/aerusdark-yt/naeleck-burning-wish-mythens-club-remix",
+          "duration": 171593,
+          "user": "AerusDark YT",
+          "playback_count": 228,
+          "match_score": 50.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Dance For Me (1, 2, 3) - Stutter Techno",
+      "spotify_artist": "Sonny Wern, Quinten Circle, ZANA, Lyente",
+      "spotify_id": "7rvoFDWkaZxHXttKbaoJdy",
+      "sc_match": {
+        "id": 1618520484,
+        "title": "Sonny Wern, Lyente, Quinten Circle, ZANA - Dance For Me (1, 2, 3) [Stutter Techno] *OUT NOW**",
+        "permalink_url": "https://soundcloud.com/sonnywern/danceforme",
+        "duration": 147941,
+        "user": "Sonny Wern",
+        "playback_count": 2447455,
+        "match_score": 65.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1618520484,
+          "title": "Sonny Wern, Lyente, Quinten Circle, ZANA - Dance For Me (1, 2, 3) [Stutter Techno] *OUT NOW**",
+          "permalink_url": "https://soundcloud.com/sonnywern/danceforme",
+          "duration": 147941,
+          "user": "Sonny Wern",
+          "playback_count": 2447455,
+          "match_score": 65.0
+        },
+        {
+          "id": 1634626074,
+          "title": "Sonny Wern, Lyente, Quinten Circle, ZANA - Dance For Me (1, 2, 3)",
+          "permalink_url": "https://soundcloud.com/quintencircle/dance-for-me-1-2-3",
+          "duration": 147941,
+          "user": "Quinten Circle",
+          "playback_count": 767120,
+          "match_score": 52.5
+        },
+        {
+          "id": 1619050416,
+          "title": "Lyente, Quinten Circle, Zana - Dance For Me (1,2,3)(Radio Edit)",
+          "permalink_url": "https://soundcloud.com/lyente/lyente-quinten-circle-zana-dance-for-me-123radio-edit",
+          "duration": 129587,
+          "user": "Lyente",
+          "playback_count": 196698,
+          "match_score": 47.5
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Konye",
+      "spotify_artist": "DJSM",
+      "spotify_id": "1jskS0QmpYtvf9yNcN9qzg",
+      "sc_match": {
+        "id": 1728406944,
+        "title": "DJSM - Konye",
+        "permalink_url": "https://soundcloud.com/bounceandbass/konye",
+        "duration": 164796,
+        "user": "Bounce & Bass",
+        "playback_count": 527649,
+        "match_score": 75.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1728406944,
+          "title": "DJSM - Konye",
+          "permalink_url": "https://soundcloud.com/bounceandbass/konye",
+          "duration": 164796,
+          "user": "Bounce & Bass",
+          "playback_count": 527649,
+          "match_score": 75.0
+        },
+        {
+          "id": 1674984075,
+          "title": "DJSM - Konye",
+          "permalink_url": "https://soundcloud.com/samuel-moriero/konje-v1",
+          "duration": 164796,
+          "user": "Samuel Moriero",
+          "playback_count": 79158,
+          "match_score": 72.0
+        },
+        {
+          "id": 1735556460,
+          "title": "DJSM - Konye (TECHNO)",
+          "permalink_url": "https://soundcloud.com/admiredarkness/djsm-konye-techno",
+          "duration": 164852,
+          "user": "ADMIRE DARKNESS",
+          "playback_count": 38248,
+          "match_score": 72.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Meet Her At The Love Parade",
+      "spotify_artist": "Dimitri Vegas & Like Mike, Maddix, Da Hool, Dimitri Vegas, Kiki Solvej",
+      "spotify_id": "58bT1VNZ0Itc70Sz7mcueT",
+      "sc_match": {
+        "id": 1823965902,
+        "title": "Dimitri Vegas & Like Mike x Maddix x Da Hool ft. Kiki Solvej - Meet Her At The Love Parade",
+        "permalink_url": "https://soundcloud.com/dimitrivegasandlikemike/dimitri-vegas-like-mike-maddix-da-hool-ft-kiki-solvej-meet-her-at-the-love-parade",
+        "duration": 168846,
+        "user": "dimitrivegasandlikemike",
+        "playback_count": 679221,
+        "match_score": 75.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1823965902,
+          "title": "Dimitri Vegas & Like Mike x Maddix x Da Hool ft. Kiki Solvej - Meet Her At The Love Parade",
+          "permalink_url": "https://soundcloud.com/dimitrivegasandlikemike/dimitri-vegas-like-mike-maddix-da-hool-ft-kiki-solvej-meet-her-at-the-love-parade",
+          "duration": 168846,
+          "user": "dimitrivegasandlikemike",
+          "playback_count": 679221,
+          "match_score": 75.0
+        },
+        {
+          "id": 1823958864,
+          "title": "Dimitri Vegas & Like Mike x Maddix x Da Hool ft. Kiki Solvej - Meet Her At The Love Parade",
+          "permalink_url": "https://soundcloud.com/smashthehouse/dimitri-vegas-like-mike-x-maddix-x-da-hool-ft-kiki-solvej-love-parade",
+          "duration": 168846,
+          "user": "Smash The House",
+          "playback_count": 179687,
+          "match_score": 75.0
+        },
+        {
+          "id": 198464955,
+          "title": "Dimitri Vegas & Like Mike vs Ummet Ozcan - The Hum - BEATPORT #1",
+          "permalink_url": "https://soundcloud.com/dimitrivegasandlikemike/dimitri-vegas-like-mike-vs-ummet-ozcan-the-hum-out-2004-on-beatport",
+          "duration": 211046,
+          "user": "dimitrivegasandlikemike",
+          "playback_count": 17098051,
+          "match_score": 13.333333333333332
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Disturbia (Techno)",
+      "spotify_artist": "Tektony, Way 2 Fast",
+      "spotify_id": "3Qy00wXtpg84YeBoxneAnQ",
+      "sc_match": {
+        "id": 1899734892,
+        "title": "Tektony & Way 2 Fast - Disturbia (Techno).mp3",
+        "permalink_url": "https://soundcloud.com/bwil199947/tektony-way-2-fast-disturbia",
+        "duration": 207145,
+        "user": "bwil199947",
+        "playback_count": 8242,
+        "match_score": 70.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1899734892,
+          "title": "Tektony & Way 2 Fast - Disturbia (Techno).mp3",
+          "permalink_url": "https://soundcloud.com/bwil199947/tektony-way-2-fast-disturbia",
+          "duration": 207145,
+          "user": "bwil199947",
+          "playback_count": 8242,
+          "match_score": 70.0
+        },
+        {
+          "id": 2309916533,
+          "title": "First Techno/Hard Techno Mix",
+          "permalink_url": "https://soundcloud.com/camiandreaz/first-technohard-techno-mix",
+          "duration": 2559341,
+          "user": "camiandreaz",
+          "playback_count": 1,
+          "match_score": 25.0
+        },
+        {
+          "id": 2351389436,
+          "title": "Wanderers w/ JustEllie - 28/06/2026",
+          "permalink_url": "https://soundcloud.com/parea-radio/wanderers-w-justellie-28062026",
+          "duration": 7126226,
+          "user": "Parea Radio",
+          "playback_count": 6,
+          "match_score": 0.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "i like the way you kiss me",
+      "spotify_artist": "Valexus",
+      "spotify_id": "2GUJVz8cDtBePu2hd9oYZx",
+      "sc_match": {
+        "id": 1783531884,
+        "title": "i like the way you kiss me",
+        "permalink_url": "https://soundcloud.com/user-467741183/i-like-the-way-you-kiss-me",
+        "duration": 133791,
+        "user": "Valexus",
+        "playback_count": 389882,
+        "match_score": 105.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1783531884,
+          "title": "i like the way you kiss me",
+          "permalink_url": "https://soundcloud.com/user-467741183/i-like-the-way-you-kiss-me",
+          "duration": 133791,
+          "user": "Valexus",
+          "playback_count": 389882,
+          "match_score": 105.0
+        },
+        {
+          "id": 1776107214,
+          "title": "i like the way you kiss me",
+          "permalink_url": "https://soundcloud.com/artemaswannabepopstar/i-like-the-way-you-kiss-me",
+          "duration": 142561,
+          "user": "Artemas",
+          "playback_count": 16804921,
+          "match_score": 75.0
+        },
+        {
+          "id": 1792918561,
+          "title": "Artemas - I Like The Way You Kiss Me (Marlon Hoffstadt aka DJ Daddy Trance Remix)",
+          "permalink_url": "https://soundcloud.com/marlonhoffstadt/artemas-i-like-the-way-you-kiss-me-marlon-hoffstadt-aka-dj-daddy-trance-remix",
+          "duration": 199129,
+          "user": "Marlon Hoffstadt",
+          "playback_count": 2088440,
+          "match_score": 75.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Axel F (Richtig Drauf)",
+      "spotify_artist": "SARIAN",
+      "spotify_id": "6ePfiBYbih6fhkUjWNqQqk",
+      "sc_match": {
+        "id": 1839750231,
+        "title": "Axel F (Richtig Drauf)",
+        "permalink_url": "https://soundcloud.com/sarian-music/axel-f-richtig-drauf",
+        "duration": 140821,
+        "user": "Sarian",
+        "playback_count": 55461,
+        "match_score": 102.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1839750231,
+          "title": "Axel F (Richtig Drauf)",
+          "permalink_url": "https://soundcloud.com/sarian-music/axel-f-richtig-drauf",
+          "duration": 140821,
+          "user": "Sarian",
+          "playback_count": 55461,
+          "match_score": 102.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Break The Rules",
+      "spotify_artist": "KXXMA, YAMAS, MESSY",
+      "spotify_id": "2RskfmXnkMxDN6R9Mz9uG3",
+      "sc_match": {
+        "id": 256099071,
+        "title": "Break the Rules",
+        "permalink_url": "https://soundcloud.com/charlixcx/break-the-rules",
+        "duration": 203618,
+        "user": "charlixcx",
+        "playback_count": 182698,
+        "match_score": 75.0
+      },
+      "sc_candidates": [
+        {
+          "id": 256099071,
+          "title": "Break the Rules",
+          "permalink_url": "https://soundcloud.com/charlixcx/break-the-rules",
+          "duration": 203618,
+          "user": "charlixcx",
+          "playback_count": 182698,
+          "match_score": 75.0
+        },
+        {
+          "id": 1672791591,
+          "title": "BREAK THE RULES (BOVSKI Remix)",
+          "permalink_url": "https://soundcloud.com/djbovski/break-the-rules-bovski-remix",
+          "duration": 134896,
+          "user": "BOVSKI",
+          "playback_count": 1035724,
+          "match_score": 75.0
+        },
+        {
+          "id": 2114419119,
+          "title": "Break the Rules",
+          "permalink_url": "https://soundcloud.com/lucdoesmusic/charlie-xcx-break-the-rules-luco-remix-clip",
+          "duration": 118742,
+          "user": "LUCØ",
+          "playback_count": 481235,
+          "match_score": 75.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "That's the way (I Like It)",
+      "spotify_artist": "Robbe, Bisken, Kristianex",
+      "spotify_id": "54WI4DZxLXCVrvk4hWTYSc",
+      "sc_match": {
+        "id": 1858415445,
+        "title": "Robbe, Bisken & Kristianex - That's The Way (I Like It) (TECHNO)",
+        "permalink_url": "https://soundcloud.com/robbeaudio/thats-the-way",
+        "duration": 101350,
+        "user": "Robbe",
+        "playback_count": 40963,
+        "match_score": 82.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1858415445,
+          "title": "Robbe, Bisken & Kristianex - That's The Way (I Like It) (TECHNO)",
+          "permalink_url": "https://soundcloud.com/robbeaudio/thats-the-way",
+          "duration": 101350,
+          "user": "Robbe",
+          "playback_count": 40963,
+          "match_score": 82.0
+        },
+        {
+          "id": 1851988707,
+          "title": "Robbe, Bisken & Kristianex - That's The Way (I Like It) [TEASER]",
+          "permalink_url": "https://soundcloud.com/robbeaudio/thats-the-way-teaser",
+          "duration": 23138,
+          "user": "Robbe",
+          "playback_count": 1045,
+          "match_score": 80.0
+        },
+        {
+          "id": 1858427112,
+          "title": "Robbe, Bisken & Kristianex - That's The Way (I Like It)",
+          "permalink_url": "https://soundcloud.com/bounceandbass/thats-the-way-i-like-it",
+          "duration": 101350,
+          "user": "Bounce & Bass",
+          "playback_count": 15448,
+          "match_score": 72.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Insomnia - Extended Mix",
+      "spotify_artist": "Toby D, Fun[k]House, Felix Harrer, Flyjacker",
+      "spotify_id": "3QvMAqgohfp9wZp7IJhNdz",
+      "sc_match": {
+        "id": 1411700887,
+        "title": "Insomnia [Bigroom Techno Remix] - Toby DEE, Fun[k]house & Felix Harrer feat. Flyjacker",
+        "permalink_url": "https://soundcloud.com/tobydee_official/insomnia-toby-dee-funkhouse-felix-harrer-feat-flyjacker-radio-mix",
+        "duration": 136163,
+        "user": "DJ Toby DEE",
+        "playback_count": 254244,
+        "match_score": 33.75
+      },
+      "sc_candidates": [
+        {
+          "id": 1411700887,
+          "title": "Insomnia [Bigroom Techno Remix] - Toby DEE, Fun[k]house & Felix Harrer feat. Flyjacker",
+          "permalink_url": "https://soundcloud.com/tobydee_official/insomnia-toby-dee-funkhouse-felix-harrer-feat-flyjacker-radio-mix",
+          "duration": 136163,
+          "user": "DJ Toby DEE",
+          "playback_count": 254244,
+          "match_score": 33.75
+        },
+        {
+          "id": 1668734394,
+          "title": "Insomnia [Bigroom Techno Remix 2023] - Toby DEE, Fun[k]house & Felix Harrer Feat. Flyjacker",
+          "permalink_url": "https://soundcloud.com/dylan-lebel-541137935/insomnia-bigroom-techno-remix-2023-toby-dee-funkhouse-felix-harrer-feat-flyjacker",
+          "duration": 136163,
+          "user": "Dylan Lebel",
+          "playback_count": 333,
+          "match_score": 25.0
+        }
+      ],
+      "status": "uncertain"
+    },
+    {
+      "spotify_title": "Light",
+      "spotify_artist": "Will Sparks",
+      "spotify_id": "2Yx9G1RGt04uO2PX5pNmeH",
+      "sc_match": {
+        "id": 1790626087,
+        "title": "Light",
+        "permalink_url": "https://soundcloud.com/willsparks/light",
+        "duration": 195930,
+        "user": "Will Sparks",
+        "playback_count": 89835,
+        "match_score": 102.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1790626087,
+          "title": "Light",
+          "permalink_url": "https://soundcloud.com/willsparks/light",
+          "duration": 195930,
+          "user": "Will Sparks",
+          "playback_count": 89835,
+          "match_score": 102.0
+        },
+        {
+          "id": 1803306516,
+          "title": "Will Sparks - Light",
+          "permalink_url": "https://soundcloud.com/clubwrk/will-sparks-light",
+          "duration": 195955,
+          "user": "CLUBWRK",
+          "playback_count": 10223,
+          "match_score": 72.0
+        },
+        {
+          "id": 1420476955,
+          "title": "Age Of Love (Charlotte de Witte & Enrico Sangiuliano Remix) [Will Sparks Edit]",
+          "permalink_url": "https://soundcloud.com/willsparks/age-of-love-will-sparks-edit",
+          "duration": 224046,
+          "user": "Will Sparks",
+          "playback_count": 838819,
+          "match_score": 35.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Pull Me In",
+      "spotify_artist": "Nifra, EKE",
+      "spotify_id": "6YJFwZR6mxp8bU38WB3HeX",
+      "sc_match": {
+        "id": 1747896624,
+        "title": "Pull Me In (feat. EKE)",
+        "permalink_url": "https://soundcloud.com/nifra/pull-me-in-feat-eke",
+        "duration": 147418,
+        "user": "Nifra",
+        "playback_count": 89079,
+        "match_score": 87.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1747896624,
+          "title": "Pull Me In (feat. EKE)",
+          "permalink_url": "https://soundcloud.com/nifra/pull-me-in-feat-eke",
+          "duration": 147418,
+          "user": "Nifra",
+          "playback_count": 89079,
+          "match_score": 87.0
+        },
+        {
+          "id": 1925808611,
+          "title": "Nifra feat. Eke - Pull Me In (Extended Mix) Tech-Trance  edmlake.com (1).mp3",
+          "permalink_url": "https://soundcloud.com/marz91-1/nifra-feat-eke-pull-me-in",
+          "duration": 253959,
+          "user": "marz91",
+          "playback_count": 2461,
+          "match_score": 70.0
+        },
+        {
+          "id": 1983132407,
+          "title": "Pull me in - Nifra (intro edit)",
+          "permalink_url": "https://soundcloud.com/user-743489409-568039487/trance-intro-edit-1",
+          "duration": 241130,
+          "user": "piers",
+          "playback_count": 63,
+          "match_score": 70.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Touch Me",
+      "spotify_artist": "SaberZ, Lister",
+      "spotify_id": "3OKrYET176YDfFvbEA05hr",
+      "sc_match": {
+        "id": 1695187293,
+        "title": "Touch Me",
+        "permalink_url": "https://soundcloud.com/saberzmusic/touch-me",
+        "duration": 153471,
+        "user": "SaberZ",
+        "playback_count": 1249,
+        "match_score": 85.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1695187293,
+          "title": "Touch Me",
+          "permalink_url": "https://soundcloud.com/saberzmusic/touch-me",
+          "duration": 153471,
+          "user": "SaberZ",
+          "playback_count": 1249,
+          "match_score": 85.0
+        },
+        {
+          "id": 1695191457,
+          "title": "Touch Me (Extended Mix)",
+          "permalink_url": "https://soundcloud.com/saberzmusic/touch-me-extended-mix",
+          "duration": 209812,
+          "user": "SaberZ",
+          "playback_count": 308,
+          "match_score": 85.0
+        },
+        {
+          "id": 1721004411,
+          "title": "SaberZ X Lister - Touch Me",
+          "permalink_url": "https://soundcloud.com/nexchapter/saberz-x-lister-touch-me",
+          "duration": 153496,
+          "user": "NEXCHAPTER",
+          "playback_count": 22854,
+          "match_score": 72.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Flashpoint",
+      "spotify_artist": "Taylor Torrence",
+      "spotify_id": "0Ow5Aw3Wa4XzXAXUmbhSSt",
+      "sc_match": {
+        "id": 1726518399,
+        "title": "Taylor Torrence - Flashpoint",
+        "permalink_url": "https://soundcloud.com/dreamstateusa/taylor-torrence-flashpoint",
+        "duration": 194931,
+        "user": "Dreamstate",
+        "playback_count": 2457,
+        "match_score": 70.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1726518399,
+          "title": "Taylor Torrence - Flashpoint",
+          "permalink_url": "https://soundcloud.com/dreamstateusa/taylor-torrence-flashpoint",
+          "duration": 194931,
+          "user": "Dreamstate",
+          "playback_count": 2457,
+          "match_score": 70.0
+        },
+        {
+          "id": 1843855320,
+          "title": "Heads Will Roll (Taylor Torrence Future Techno Remix) [FREE DOWNLOAD]",
+          "permalink_url": "https://soundcloud.com/taylortorrencemusic/heads-will-roll-taylor-torrence-future-techno-remix",
+          "duration": 164617,
+          "user": "Taylor Torrence",
+          "playback_count": 113592,
+          "match_score": 35.0
+        },
+        {
+          "id": 1603308567,
+          "title": "John Summit feat. MKLA - Fade Out (Taylor Torrence Future Acid Remix) [FREE DOWNLOAD]",
+          "permalink_url": "https://soundcloud.com/taylortorrencemusic/fade-out-taylor-torrence-future-acid-remix-radio-edit",
+          "duration": 209250,
+          "user": "Taylor Torrence",
+          "playback_count": 54844,
+          "match_score": 32.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Hidden Light",
+      "spotify_artist": "Lister",
+      "spotify_id": "3I6P3vcDIiUizzwVXUfaq0",
+      "sc_match": {
+        "id": 1755314001,
+        "title": "Hidden Light",
+        "permalink_url": "https://soundcloud.com/lister_aus/hidden-light",
+        "duration": 244307,
+        "user": "Lister",
+        "playback_count": 34077,
+        "match_score": 102.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1755314001,
+          "title": "Hidden Light",
+          "permalink_url": "https://soundcloud.com/lister_aus/hidden-light",
+          "duration": 244307,
+          "user": "Lister",
+          "playback_count": 34077,
+          "match_score": 102.0
+        },
+        {
+          "id": 2342654306,
+          "title": "Hidden Light",
+          "permalink_url": "https://soundcloud.com/zeravox/hidden-light",
+          "duration": 237846,
+          "user": "ZERAVOX",
+          "playback_count": 200,
+          "match_score": 70.0
+        },
+        {
+          "id": 2381608956,
+          "title": "Across Hidden Light",
+          "permalink_url": "https://soundcloud.com/crisatica/across-hidden-light",
+          "duration": 227693,
+          "user": "Crisa Tica",
+          "playback_count": 137,
+          "match_score": 70.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Blade",
+      "spotify_artist": "DJ Kuba, Neitan, Bounce Inc.",
+      "spotify_id": "5oAyw9c4VvHaEdiAfLQobC",
+      "sc_match": {
+        "id": 1708987818,
+        "title": "DJ Kuba & Neitan x Bounce Inc. - Blade",
+        "permalink_url": "https://soundcloud.com/djkubaneitan/dj-kuba-neitan-x-bounce-inc-blade-radio-edit",
+        "duration": 190008,
+        "user": "DJ KUBA & NEITAN",
+        "playback_count": 70591,
+        "match_score": 90.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1708987818,
+          "title": "DJ Kuba & Neitan x Bounce Inc. - Blade",
+          "permalink_url": "https://soundcloud.com/djkubaneitan/dj-kuba-neitan-x-bounce-inc-blade-radio-edit",
+          "duration": 190008,
+          "user": "DJ KUBA & NEITAN",
+          "playback_count": 70591,
+          "match_score": 90.0
+        },
+        {
+          "id": 1709033247,
+          "title": "DJ Kuba & Neitan x Bounce Inc. - Blade",
+          "permalink_url": "https://soundcloud.com/futurehousemusic/dj-kuba-neitan-bounce-inc-blade",
+          "duration": 189972,
+          "user": "Future House Music",
+          "playback_count": 242022,
+          "match_score": 75.0
+        },
+        {
+          "id": 2385454482,
+          "title": "Walker & Royce, FENIK vs. DJ Kuba & Neitan x Bounce Inc - Utopia vs Blade (RVNDEVU Mashup)",
+          "permalink_url": "https://soundcloud.com/djrvndevu/utopia-blade",
+          "duration": 300052,
+          "user": "RVNDEVU",
+          "playback_count": 139,
+          "match_score": 70.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Indestructible",
+      "spotify_artist": "Will Sparks",
+      "spotify_id": "5R7CjApQ7jHFKtsHg2NjEk",
+      "sc_match": {
+        "id": 1526731132,
+        "title": "Indestructible",
+        "permalink_url": "https://soundcloud.com/willsparks/indestructible",
+        "duration": 240592,
+        "user": "Will Sparks",
+        "playback_count": 105115,
+        "match_score": 105.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1526731132,
+          "title": "Indestructible",
+          "permalink_url": "https://soundcloud.com/willsparks/indestructible",
+          "duration": 240592,
+          "user": "Will Sparks",
+          "playback_count": 105115,
+          "match_score": 105.0
+        },
+        {
+          "id": 1653339099,
+          "title": "Indestructible (Giuseppe Ottaviani Remix)",
+          "permalink_url": "https://soundcloud.com/willsparks/indestructible-giuseppe",
+          "duration": 180031,
+          "user": "Will Sparks",
+          "playback_count": 19480,
+          "match_score": 102.0
+        },
+        {
+          "id": 1557917506,
+          "title": "Will Sparks - Indestructible",
+          "permalink_url": "https://soundcloud.com/clubwrk/will-sparks-indestructible",
+          "duration": 240617,
+          "user": "CLUBWRK",
+          "playback_count": 10076,
+          "match_score": 72.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Stand By Me",
+      "spotify_artist": "Will Sparks",
+      "spotify_id": "6aSBW6qilMBecuL184uSf3",
+      "sc_match": {
+        "id": 999067852,
+        "title": "Will Sparks - Stand By Me",
+        "permalink_url": "https://soundcloud.com/willsparks/will-sparks-stand-by-me",
+        "duration": 268075,
+        "user": "Will Sparks",
+        "playback_count": 133652,
+        "match_score": 105.0
+      },
+      "sc_candidates": [
+        {
+          "id": 999067852,
+          "title": "Will Sparks - Stand By Me",
+          "permalink_url": "https://soundcloud.com/willsparks/will-sparks-stand-by-me",
+          "duration": 268075,
+          "user": "Will Sparks",
+          "playback_count": 133652,
+          "match_score": 105.0
+        },
+        {
+          "id": 999759577,
+          "title": "Will Sparks - Stand By Me (Intro)",
+          "permalink_url": "https://soundcloud.com/willsparks/willsparks-stand-by-me-intro",
+          "duration": 417189,
+          "user": "Will Sparks",
+          "playback_count": 49211,
+          "match_score": 102.0
+        },
+        {
+          "id": 1374900190,
+          "title": "Stand By Me",
+          "permalink_url": "https://soundcloud.com/willsparks/stand-by-me",
+          "duration": 268075,
+          "user": "Will Sparks",
+          "playback_count": 5315,
+          "match_score": 100.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "HUSTLR",
+      "spotify_artist": "Will Sparks, Joel Fletcher, Luciana",
+      "spotify_id": "4pz1YLaxw1xvPYkm2PAIKq",
+      "sc_match": {
+        "id": 2175389652,
+        "title": "Will Sparks, Joel Fletcher, Luciana - HUSTLR (Twenty4HZ Bootleg) FREE DL",
+        "permalink_url": "https://soundcloud.com/twenty4hz/hustlr-twenty4hz-bootleg",
+        "duration": 108021,
+        "user": "Twenty4HZ",
+        "playback_count": 3257,
+        "match_score": 70.0
+      },
+      "sc_candidates": [
+        {
+          "id": 2175389652,
+          "title": "Will Sparks, Joel Fletcher, Luciana - HUSTLR (Twenty4HZ Bootleg) FREE DL",
+          "permalink_url": "https://soundcloud.com/twenty4hz/hustlr-twenty4hz-bootleg",
+          "duration": 108021,
+          "user": "Twenty4HZ",
+          "playback_count": 3257,
+          "match_score": 70.0
+        },
+        {
+          "id": 2377313636,
+          "title": "HUSTLR (NKTR Drip) - Will Sparks, Joel Fletcher, Luciana",
+          "permalink_url": "https://soundcloud.com/djnktr/hustlr-nktr-drip-will-sparks",
+          "duration": 177796,
+          "user": "NKTR",
+          "playback_count": 28,
+          "match_score": 70.0
+        },
+        {
+          "id": 2103563961,
+          "title": "HUSTLR (BOONG Bootleg) - Will Sparks, Joel Fletcher, Luciana",
+          "permalink_url": "https://soundcloud.com/deejayboong/hustlr-boong-bootleg-will-sparks-joel-fletcher-luciana",
+          "duration": 223145,
+          "user": "BOONG",
+          "playback_count": 1405,
+          "match_score": 70.0
+        }
+      ],
+      "status": "matched"
+    },
+    {
+      "spotify_title": "Now Or Never - Toneshifterz Remix",
+      "spotify_artist": "Will Sparks, Sara Phillips, Toneshifterz",
+      "spotify_id": "1ZQj7rBxrxKcMc1RqyBmrM",
+      "sc_match": {
+        "id": 1642728408,
+        "title": "Now Or Never (Toneshifterz Remix)",
+        "permalink_url": "https://soundcloud.com/willsparks/now-or-never-toneshifterz",
+        "duration": 241621,
+        "user": "Will Sparks",
+        "playback_count": 55207,
+        "match_score": 64.0
+      },
+      "sc_candidates": [
+        {
+          "id": 1642728408,
+          "title": "Now Or Never (Toneshifterz Remix)",
+          "permalink_url": "https://soundcloud.com/willsparks/now-or-never-toneshifterz",
+          "duration": 241621,
+          "user": "Will Sparks",
+          "playback_count": 55207,
+          "match_score": 64.0
+        },
+        {
+          "id": 1655454414,
+          "title": "Will Sparks, Sara Phillips - Now Or Never (Toneshifterz Remix)",
+          "permalink_url": "https://soundcloud.com/clubwrk/will-sparks-sara-phillips-now-or-never-toneshifterz-remix",
+          "duration": 241646,
+          "user": "CLUBWRK",
+          "playback_count": 28167,
+          "match_score": 52.0
+        },
+        {
+          "id": 1620377667,
+          "title": "Will Sparks feat. Sara Phillips - Now Or Never",
+          "permalink_url": "https://soundcloud.com/clubwrk/will-sparks-feat-sara-phillips",
+          "duration": 252050,
+          "user": "CLUBWRK",
+          "playback_count": 1926,
+          "match_score": 37.5
+        }
+      ],
+      "status": "matched"
+    }
+  ]
+}

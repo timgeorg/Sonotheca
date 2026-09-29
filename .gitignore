@@ -213,3 +213,6 @@ __marimo__/
 *.m4a
 *.txt
 *.jpg
+
+# Playlist download log lives in the vault, not the repo
+playlist_download_log.csv
